@@ -1,0 +1,1657 @@
+ID,Name,Age,Gender,City,Education,Employment Status,Salary,Health Condition,Credit Score
+1,GARCIA JUAN,78,M,Albuquerque,Bachelor,Employed,"$80,000 ",Good,720
+2,MONTOYA CAMERON,17,F,Albuque,Associate,Unemployed,$0 ,Excellent,N/A
+3,SATTERFIELD VIVIANA,15,M,Albuque,PhD,Self-employed,"$120,000 ",Poor,550
+4,MENDIOLA CARLOS,32,F,Albuque,High School,Employed,"$45,000 ",Excellent,800
+5,MULA VIVIAN,72,M,Albuque,Master's,Retired,"$50,000 ",Average,680
+6,BOOK GERALDINE,91,F,Albuque,,Student,$0 ,Good,N/A
+7,MALDONADO DAVID,52,M,Albuquerque,,Unemployed,Missing,Poor,400
+8,MALDONADO CONNIE,52,F,Albuquerque,Associate,Employed,"$65,000 ",,750
+9,MARTIN-LEYVA GUSTAVO,56,M,ALBUQUERQUE,High School,Self-employed,"$30,000 ",Excellent,600
+10,HERRERA ISRAEL,43,F,ALBUQUERQUE,PhD,Employed,"$100,000 ",Average,790
+11,BARRIUS-CAMPANIONI HECTOR,20,F,ALBUQUERQUE,PhD,Retired,$0 ,Average,537
+12,LUJAN KEVIN,Unknown,M,ALBUQUERQUE,Bachelor's,Unemployed,$0 ,Excellent,None
+13,COLLAMORE JOHN,46,M,ALBUQUERQUE,High School,Unemployed,$0 ,Good,457
+14,CHIQUITO CORIN,16,M,ALBUQUERQUE,PhD,Unemployed,$0 ,,N/A
+15,TORRES HECTOR,54,F,ALBUQUERQUE,Bachelor's,Retired,$0 ,,None
+16,GRAY STEFANIA,43,M,ALBUQUERQUE,,Student,$0 ,,N/A
+17,LEYVA JOEL,52,F,ALBUQUERQUE,Master's,Self-employed,"$135,068 ",Average,794
+18,DAVID LARRY,52,M,ALBUQUERQUE,PhD,Employed,"($50,975)",Good,None
+19,BRITO ELIZABETH,22,M,ALBUQUERQUE,Master's,Unemployed,$0 ,Good,814
+20,CHAVEZ GREG SR.,49,M,Albuquerque,PhD,Self-employed,"($102,073)",Poor,780
+21,KING TEVION,15,F,Albuquerque,High School,Freelance,"$25,000 (Hourly)",Excellent,720
+22,BOYKIN CEDRIC,25,M,Albuquerque,,Student (Part-time),"$15,000 (Summer Job)",Good,None
+23,BARRAGAN MIGUEL,20,F,Albuquerque,Master's,Retired (Early),"$35,000 (Pension)",Average,650
+24,FORD LUTHER,47,M,Albuquerque,Bachelor's,Self-employed,"$150,000 (Seasonal)",Poor,500
+25,WRONSKI VIOLA,88,F,Albuquerque,Associate,Unemployed,$0 ,,N/A
+26,ASHFORD GUADALUPE,27,M,Albuquerque,PhD,Employed,"$110,000 (Commission)",Good,830
+27,TURNER MICHELLE,36,F,Albuquerque,Master's,Retired,"$48,000 (Social Security)",Excellent,750
+28,CUNNINGHAM SHARON,47,M,Albuquerque,High School,Employed (Gig Work),"$30,000 (Unstable)",Poor,420
+29,NGUYEN SELENAVI,1,F,Albuquerque,Bachelor's,Student (Full-time),$0 ,Excellent,None
+30,VALDEZ BILL,58,M,Albuquerque,PhD,Self-employed,$0 (Business Closed),Poor,480
+31,GOMEZ-HERNANDEZ ANGEL,42,,Albuquerque,,Unemployed,$0 ,Excellent,N/A
+32,MARTINEZ LAWRENCE,50,,Albuquerque,High School,Employed,"$40,000 ",Good,720
+33,CORIZ EMMA,3,,Albuquerque,Bachelor's,Student,$0 ,Excellent,None
+34,MONTOYA-SANTANA JULIAN,1,,Albuquerque,,Self-employed,"$60,000 (Unstable)",Poor,580
+35,SANTANA-HERNANDEZ YURIKO,21,,Albuquerque,Master's,Unemployed,$0 ,Average,650
+36,VIGIL DAWN,19,,Albuquerque,PhD,Retired,"$75,000 (Pension)",Excellent,810
+37,BEGAY ALBERT,46,,Albuquerque,Associate,Employed,"$50,000 ",Good,780
+38,PHILLIPS MADELYN,95,,Albuquerque,High School,Unemployed,$0 ,Poor,N/A
+39,CHECKLEY MICHAEL,24,,Albuquerque,Bachelor's,Employed (Part-time),"$20,000 (Hourly)",Excellent,700
+40,FREEMAN JAMES,41,,Albuquerque,Master's,Self-employed,"$100,000 (Seasonal)",Average,690
+41,STOWE KIMBREL,50,,Albuquerque,,Student (Full-time),$0 ,Good,None
+42,BARKER PAUL,51,,Albuquerque,PhD,Employed,"$120,000 ",Excellent,830
+43,MALDONADO CHRISTIAN,18,,Albuquerque,Associate,Unemployed,$0 ,Poor,550
+44,TSOSIE DERRON,36,,Albuquerque,High School,Gig Worker,"$35,000 (Unstable)",Average,620
+45,JOHNSON DAWYNE,18,,Albuquerque,Bachelor's,Employed (Contract),"$80,000 ",Good,750
+46,SAM WANBLIHOKSILA,27,,Albuquerque,Master's,Retired,"$55,000 (Social Security)",Excellent,790
+47,NELSON JONAH,8,,Albuquerque,PhD,Unemployed,$0 ,Poor,N/A
+48,HERNANDEZ REINALDO,43,,Albuquerque,Associate,Employed,"$45,000 ",Average,680
+49,KENT BRANDI,22,,Albuquerque,High School,Student (Part-time),"$15,000 (Summer Job)",Good,None
+50,MONTOYA ADAM,36,,Albuquerque,Bachelor's,Self-employed,"$110,000 ",Excellent,820
+51,MARINER KAREN,64,,Albuquerque,,Unemployed,$0 ,Poor,480
+52,DOMINGUEZ-ACOSTA EVER IVAN,30,,Albuquerque,PhD,Employed,"$130,000 (Commission)",Average,710
+53,ALVAREZ VALENTIN,2,,Albuquerque,Associate,Unemployed,$0 ,Good,N/A
+54,HOBBS DAVID,52,,Albuquerque,High School,Gig Worker,"$28,000 (Unstable)",Poor,520
+55,SCHWABE JOHN RAY,39,,Albuquerque,Bachelor's,Employed (Contract),"$90,000 ",Excellent,770
+56,SANDERS LISA,50,,Albuquerque,Master's,Retired,"$60,000 (Social Security)",Average,740
+57,TADACHEENIE ANTHONY,49,,Albuquerque,PhD,Unemployed,$0 ,Poor,N/A
+58,MOORE JAMES,45,,Albuquerque,Associate,Employed,"$50,000 ",Good,690
+59,CUNNINGHAM ROGER,42,,Albuquerque,High School,Student (Full-time),$0 ,Excellent,None
+60,ORTIZ-BURCIAGA VICTORIA,Unknown,,Albuquerque,Bachelor's,Self-employed,"$120,000 ",Excellent,840
+61,ARCHIBEQUE DANIEL,49,,Albuquerque,,Unemployed,$0 ,Average,450
+62,TRUJILLO PATRICK,19,,Albuquerque,PhD,Employed,"$140,000 (Commission)",Good,730
+63,SHARPE JAMES,49,,Albuquerque,Associate,Unemployed,$0 ,Poor,N/A
+64,BOOKER QUINCY JC,36,,Albuquerque,High School,Gig Worker,"$32,000 (Unstable)",Average,600
+65,DEFRAIA MATTHEW,49,,Albuquerque,Bachelor's,Employed (Contract),"$100,000 ",Excellent,790
+66,CORNICK WILLIAM,43,,Albuquerque,Master's,Retired,"$65,000 (Social Security)",Good,760
+67,DAVIS ANDRAE J,31,,Albuquerque,Master's,Student (Full-time),$0 ,Excellent,None
+68,GREEN BRYAN,0,,Albuquerque,PhD,Employed,"$90,000 ",Good,800
+69,RICHARDS KEVIN,0,,Albuquerque,Associate,Unemployed,$0 ,Poor,N/A
+70,THREADGILL JOSEPH,23,,Albuquerque,High School,Employed (Part-time),"$25,000 (Hourly)",Excellent,740
+71,JARAMILLO ADELINA,30,,Albuquerque,Bachelor's,Self-employed,"$70,000 (Seasonal)",Average,670
+72,FELIX JUSTIN,32,,Albuquerque,,Retired,"$40,000 (Pension)",Good,710
+73,SAAVEDRA GERALDO,51,,Albuquerque,Associate,Gig Worker,"$42,000 (Unstable)",Average,640
+74,OCHOA ISMAEL III,16,,Albuquerque,High School,Employed,"$55,000 ",Excellent,780
+75,MARTINEZ ATHENA,28,,Albuquerque,Bachelor's,Student (Part-time),"$18,000 (Summer Job)",Good,None
+76,GUTIERREZ GINA,35,,Albuquerque,Master's,Self-employed,"$140,000 ",Excellent,850
+77,GONZALEZ JORGE,26,,Albuquerque,,Unemployed,$0 ,Poor,420
+78,FROST LINDSEY,18,,Albuquerque,PhD,Employed,"$100,000 ",Average,750
+79,KINNEY CHRISTOPHER,23,,Albuquerque,Associate,Unemployed,$0 ,Good,N/A
+80,THOMAS MARVIN,40,,Albuquerque,High School,Gig Worker,"$30,000 (Unstable)",Poor,580
+81,SULLIVAN BRENDA,52,,Albuquerque,Bachelor's,Employed (Contract),"$85,000 ",Excellent,720
+82,GONZALEZ HECTOR,19,,Albuquerque,Master's,Retired,"$50,000 (Social Security)",Average,700
+83,HERRERA DANNY,19,,Albuquerque,PhD,Unemployed,$0 ,Poor,N/A
+84,GARCIA TOBY,42,,Albuquerque,Associate,Employed,"$40,000 ",Good,650
+85,DE LA PAZ JOSE,17,,Albuquerque,High School,Student (Full-time),$0 ,Excellent,None
+86,CHAVEZ FRED,45,,Albuquerque,Bachelor's,Self-employed (Business Closed),$0 ,Poor,450
+87,SERRA RAFEAL,21,,Albuquerque,,Unemployed,$0 ,Average,400
+88,GRIEGO GERALD,42,,Albuquerque,PhD,Employed,"$110,000 (Commission)",Good,770
+89,MILLER GREGORY,42,,Albuquerque,Associate,Unemployed,$0 ,Poor,N/A
+90,PARHAM GERALDINE,94,,Albuquerque,High School,Gig Worker,"$38,000 (Unstable)",Average,610
+91,CHAVEZ GILBERT,33,,Albuquerque,Bachelor's,Employed (Contract),"$95,000 ",Excellent,790
+92,GILBERT CHAVEZ,33,,Albuquerque,Master's,Retired,"$55,000 (Social Security)",Good,730
+93,BARBIER RENEE,57,,Albuquerque,PhD,Unemployed,$0 ,Excellent (?!),N/A
+94,SMITH ROBERT,55,,Albuquerque,Associate,Unemployed,$0 ,Poor,N/A
+95,MONTOYA-LEON ROMANA,29,,Albuquerque,Master's,Self-employed,"$120,000 ",Good,810
+96,GARCIA ARTHUR,53,,Albuquerque,,Employed (Part-time),"$15,000 (Hourly)",Excellent,690
+97,GUTIERREZ SAMUEL,17,,Albuquerque,PhD,Gig Worker,"$50,000 (Unstable)",Average,700
+98,TRUJILLO JEREMY,16,,Albuquerque,Associate,Self-employed,"$80,000 (Seasonal)",Poor,590
+99,NERI JOSE,23,,Albuquerque,Master's,Student (Full-time),$0 ,Excellent,None
+100,CHEE KENNARD,42,,Albuquerque,PhD,Employed,"$90,000 ",Good,800
+101,VALERIO MAY,25,,Albuquerque,Associate,Unemployed,$0 ,Poor,N/A
+102,TRUJILLO NAOMI,26,,Albuquerque,High School,Employed (Part-time),"$25,000 (Hourly)",Excellent,740
+103,VALERIO MAY,Unknown,,Albuquerque,Bachelor's,Self-employed,"$70,000 (Seasonal)",Average,670
+104,ROBSON SHIRLEY,66,,Albuquerque,,Retired,"$40,000 (Pension)",Good,710
+105,ITHURRIA ISAIAH,5,,Albuquerque,Associate,Gig Worker,"$42,000 (Unstable)",Average,640
+106,RICE WALTER,74,,Albuquerque,High School,Employed,"$55,000 ",Excellent,780
+107,PRESLEY JOHN JR,20,,Albuquerque,Bachelor's,Student (Part-time),"$18,000 (Summer Job)",Good,None
+108,TSETHLIKAI IAN,20,,Albuquerque,Master's,Self-employed,"$140,000 ",Excellent,850
+109,FRASER IAN,69,,Albuquerque,,Unemployed,$0 ,Poor,420
+110,HERRERA MARC,37,,Albuquerque,PhD,Employed,"$100,000 ",Average,750
+111,PLATERO NICHOLAS,30,,Albuquerque,Associate,Unemployed,$0 ,Good,N/A
+112,MERCER CHAD,36,,Albuquerque,High School,Gig Worker,"$30,000 (Unstable)",Poor,580
+113,BALDIZAN RICK,59,,Albuquerque,Bachelor's,Employed (Contract),"$85,000 ",Excellent,720
+114,SANCHEZ DOMINIC,33,,Albuquerque,Master's,Retired,"$50,000 (Social Security)",Average,700
+115,TORRES GABRIEL,2,,Albuquerque,PhD,Unemployed,$0 ,Poor,N/A
+116,FENSTERMACHER MELISSA,40,,Albuquerque,Associate,Employed,"$40,000 ",Good,650
+117,CEARFOSS DILLON,20,,Albuquerque,High School,Student (Full-time),$0 ,Excellent,None
+118,LANDEAU KIRSTEN,36,,Albuquerque,Bachelor's,Self-employed (Business Closed),$0 ,Poor,450
+119,KING KENNETH,57,,Albuquerque,,Unemployed,$0 ,Average,400
+120,SMITH RAYONO,55,,Albuquerque,PhD,Employed,"$110,000 (Commission)",Good,770
+121,TOLLEFSON STEVEN,49,,Albuquerque,Associate,Unemployed,$0 ,Poor,N/A
+122,MACAIO WESTFALL,Unknown,,Albuquerque,High School,Gig Worker,"$38,000 (Unstable)",Average,610
+123,QUINTANA EDUARDO,54,,Albuquerque,Bachelor's,Employed (Contract),"$95,000 ",Excellent,790
+124,EDWARD QUINTANA,34,,Albuquerque,Master's,Retired,"$55,000 (Social Security)",Good,730
+125,NUNEZ JOSE,26,,Albuquerque,Master's,Student (Full-time),$0 ,Excellent,None
+126,GONZALES EMMA,1,,Albuquerque,PhD,Employed,"$150,000 (Commission)",Good,820
+127,COPPLER KEITH,45,,Albuquerque,Associate,Unemployed,$0 ,Poor,N/A
+128,SANCHEZ ROBERT HILL,27,,Albuquerque,High School,Gig Worker,"$22,000 (Unstable)",Average,540
+129,ORTEGA NEVAEH,1,,Albuquerque,Bachelor's,Self-employed,"$80,000 ",Excellent,760
+130,KINTER ROBERT,43,,Albuquerque,,Unemployed,$0 ,Poor,380 (Typo)
+131,GARRIS MICHAEL,38,,Albuquerque,Associate,Employed (Part-time),"$12,000 (Hourly)",Average,630
+132,MORALES GUADALUPE,19,,Albuquerque,High School,Employed,"$60,000 ",Excellent,800
+133,APODACA JULIO,26,,Albuquerque,Bachelor's,Student (Part-time),"$15,000 (Summer Job)",Good,None
+134,LEWIS JABAR,26,,Albuquerque,Master's,Self-employed,"$100,000 (Seasonal)",Average,680
+135,CAREY JASON,38,,Albuquerque,PhD,Employed,"$150,000 (Outlier)",Excellent,880
+136,AYALA PAUL,28,,Albuquerque,High School (GED),Unemployed,$0 ,Poor,N/A
+137,ATENCIO CHRISTINE,44,,Albuquerque,Bachelor's,Self-employed,"$80,000 (Unstable)",Average,630
+138,LOBATO SYLVIA,74,,Albuquerque,,Student (Internship),"$20,000 (Stipend)",Good,None
+139,REZA SUNNI,8,,Albuquerque,Associate,Employed (Part-time),"$30,000 (Hourly)",Excellent,760
+140,PRADA SAMARA,33,,Albuquerque,Master's,Unemployed,$0 ,Poor,N/A
+141,SWINEHART KEVIN,33,,Albuquerque,PhD,Gig Worker,"$45,000 (Unstable)",Average,590
+142,MOORE MICHAEL,28,,Albuquerque,High School,Employed,"$60,000 ",Excellent,810
+143,SANCHEZ MICHAEL,27,,Albuquerque,Bachelor's,Student (Full-time),$0 ,Good,None
+144,SANCHEZ MATTHEW,14,,Albuquerque,,Self-employed,"$120,000 (Seasonal)",Average,660
+145,RUFFING PETER,40,,Albuquerque,Associate,Unemployed,$0 ,Poor,N/A
+146,LUMPKIN JOHN,34,,Albuquerque,PhD,Employed,"$130,000 (Commission)",Good,740
+147,GLASS RICHARD,32,,Albuquerque,Master's,Student (Full-time),$0 ,Excellent,None
+148,RIECKHOFF ROBERT,59,,Albuquerque,PhD,Employed,"$90,000 ",Good,800
+149,TRUJILLO ANTONIO,38,,Albuquerque,Associate,Unemployed,$0 ,Poor,N/A
+150,SWORTWOOD BARBARA,58,,Albuquerque,High School,Employed (Part-time),"$25,000 (Hourly)",Excellent,740
+151,SEAMAN JAPETH,36,,Albuquerque,Bachelor's,Self-employed,"$70,000 (Seasonal)",Average,670
+152,SAIZ RAYMOND,56,,Albuquerque,,Retired,"$40,000 (Pension)",Good,710
+153,CHASE CHRISTOPHER,42,,Albuquerque,Associate,Gig Worker,"$42,000 (Unstable)",Average,640
+154,CARABAJAL ROSE,31,,Albuquerque,High School,Employed,"$55,000 ",Excellent,780
+155,CARRIAGA ADRIAN,21,,Albuquerque,Bachelor's,Student (Part-time),"$18,000 (Summer Job)",Good,None
+156,CHAVEZ OWEN,15,,Albuquerque,Master's,Self-employed,"$140,000 ",Excellent,850
+157,GABALDON ROBERT,41,,Albuquerque,,Unemployed,$0 ,Poor,420
+158,BEDNORZ NELSON,20,,Albuquerque,PhD,Employed,"$100,000 ",Average,750
+159,VARGAS MANUEL,21,,Albuquerque,Associate,Unemployed,$0 ,Good,N/A
+160,REYES RAUL,30,,Albuquerque,High School,Gig Worker,"$30,000 (Unstable)",Poor,580
+161,ARAGON ASHLEY,22,,Albuquerque,Bachelor's,Employed (Contract),"$85,000 ",Excellent,720
+162,VARELA OMAREE,9,,Albuquerque,Master's,Retired,"$50,000 (Social Security)",Average,700
+163,RHODES JAMES,44,,Albuquerque,PhD,Unemployed,$0 ,Poor,N/A
+164,TAFOYA RENEE,43,,Albuquerque,Associate,Employed,"$40,000 ",Good,650
+165,MONTANO IZABELLAH,Unknown,,Albuquerque,High School,Student (Full-time),$0 ,Excellent,None
+166,MILLER LILLYANA,0,,Albuquerque,Bachelor's,Self-employed (Business Closed),$0 ,Poor,450
+167,HOFFLAND GERALDINE,53,,Albuquerque,,Unemployed,$0 ,Average,400
+168,ZARATE RICHARD,65,,Albuquerque,PhD,Employed,"$110,000 (Commission)",Good,770
+169,BEGAY ALFRED,30,,Albuquerque,Associate,Unemployed,$0 ,Poor,N/A
+170,BRICENO APRIL,26,,Albuquerque,High School,Gig Worker,"$38,000 (Unstable)",Average,610
+171,MYERS NANCY,53,,Albuquerque,Bachelor's,Employed (Contract),"$95,000 ",Excellent,790
+172,PENA FABIAN,0,,Albuquerque,Master's,Retired,"$55,000 (Social Security)",Good,730
+173,WEBB DANNETTE,53,,Albuquerque,PhD,Employed,"$150,000 (Outlier)",Excellent,880
+174,GORMAN ALLISON,44,,Albuquerque,High School (GED),Unemployed,$0 ,Poor,N/A
+175,THOMPSON KEE,46,,Albuquerque,Bachelor's,Self-employed,"$80,000 (Unstable)",Average,630
+176,PEREZ EMILIO,22,,Albuquerque,,Student (Internship),"$20,000 (Stipend)",Good,None
+177,VIGIL ANNA,27,,Albuquerque,Associate,Employed (Part-time),"$30,000 (Hourly)",Excellent,760
+178,GUTIERREZ MARYELLEN,53,,Albuquerque,Master's,Unemployed,$0 ,Poor,N/A
+179,LUCERO JAMES,27,,Albuquerque,PhD,Gig Worker,"$45,000 (Unstable)",Average,590
+180,BOYD KENNETH,24,,Albuquerque,High School,Employed,"$60,000 ",Excellent,810
+181,BUCKHANAN STEVEN,33,,Albuquerque,Bachelor's,Student (Full-time),$0 ,Good,None
+182,PFEFFER LOLA,90,,Albuquerque,,Self-employed,"$120,000 (Seasonal)",Average,660
+183,NTIFORO KYLE,23,,Albuquerque,Associate,Unemployed,$0 ,Poor,N/A
+184,DANIELS FRANK,47,,Albuquerque,PhD,Employed,"$130,000 (Commission)",Good,740
+185,THOMASON VERNER,48,,Albuquerque,Bachelor,Employed,"$80,000 ",Good,720
+186,PURVIS GEORGE JR.,Unknown,,Albuquerque,Associate,Unemployed,$0 ,Excellent,N/A
+187,GALLAS ERVIN,37,,Albuquerque,PhD,Self-employed,"$120,000 ",Poor,550
+188,GURULE RAY,23,,Albuquerque,High School,Employed,"$45,000 ",Excellent,800
+189,ADAMS NICOLE,21,,Albuquerque,Master's,Retired,"$50,000 ",Average,680
+190,JUNQUEIRA ANDREW,22,,Albuquerque,,Student,$0 ,Good,N/A
+191,THOMPSON MARLON,34,,Albuquerque,,Unemployed,Missing,Poor,400
+192,CAMPBELL DAYTON,21,,Albuquerque,Associate,Employed,"$65,000 ",,750
+193,MARTINEZ ANTHONY,48,,Albuquerque,High School,Self-employed,"$30,000 ",Excellent,600
+194,MARTINEZ ANGELO,21,,Albuquerque,PhD,Employed,"$100,000 ",Average,790
+195,QUINTANA ALICIA,45,,Albuquerque,PhD,Retired,$0 ,Average,537
+196,RAEL PAUL,43,,Albuquerque,Bachelor's,Unemployed,$0 ,Excellent,None
+197,HILL ROBERT,25,,Albuquerque,High School,Unemployed,$0 ,Good,457
+198,CHAPMAN LAWRENCE,36,,Albuquerque,PhD,Unemployed,$0 ,,N/A
+199,FOSKEY PARKER,Unknown,,Albuquerque,Bachelor's,Retired,$0 ,,None
+200,GUTIERREZ RAYMOND,32,,Albuquerque,,Student,$0 ,,N/A
+201,SKEET DURWARD,43,,Albuquerque,Master's,Self-employed,"$135,068 ",Average,794
+202,ESTRADA-GALVAN CARLA,Unknown,,Albuquerque,PhD,Employed,"($50,975)",Good,None
+203,CANTRELL CHEYENE,31,,Albuquerque,Master's,Unemployed,$0 ,Good,814
+204,LEWIS JAQUISE,17,,Albuquerque,PhD,Self-employed,"($102,073)",Poor,780
+205,ROCHA LUIS,23,,Albuquerque,High School,Freelance,"$25,000 (Hourly)",Excellent,720
+206,GIVENS COREY,31,,Albuquerque,,Student (Part-time),"$15,000 (Summer Job)",Good,None
+207,BROWN ALVA,62,,Albuquerque,Master's,Retired (Early),"$35,000 (Pension)",Average,650
+208,GONZALES DAVID,57,,Albuquerque,Bachelor's,Self-employed,"$150,000 (Seasonal)",Poor,500
+209,YBARRA MAYLENE,18,,Albuquerque,Associate,Unemployed,$0 ,,N/A
+210,BACA REBECCA,64,,Albuquerque,PhD,Employed,"$110,000 (Commission)",Good,830
+211,RAMOS-CARAVEO GERARDO,Unknown,,Albuquerque,Master's,Retired,"$48,000 (Social Security)",Excellent,750
+212,RASCHICK KEVIN,Unknown,,Albuquerque,High School,Employed (Gig Work),"$30,000 (Unstable)",Poor,420
+213,PHILLIPS FELIX,Unknown,,Albuquerque,Bachelor's,Student (Full-time),$0 ,Excellent,None
+214,ELLIS MARVIN,42,,Albuquerque,PhD,Self-employed,$0 (Business Closed),Poor,480
+215,MONTOYA ADRIAN,Unknown,,Albuquerque,,Unemployed,$0 ,Excellent,N/A
+216,GERECKE STEPHEN,60,,Albuquerque,High School,Employed,"$40,000 ",Good,720
+217,CHAVEZ JAYDON,17,,Albuquerque,Bachelor's,Student,$0 ,Excellent,None
+218,PLATERO PATRICIA,49,,Albuquerque,,Self-employed,"$60,000 (Unstable)",Poor,580
+219,PLATERO PATRICIA,49,,Albuquerque,Master's,Unemployed,$0 ,Average,650
+220,MCANENEY VINCENT,29,,Albuquerque,PhD,Retired,"$75,000 (Pension)",Excellent,810
+221,ALBRIGHT ISAIAH,14,,Albuquerque,Associate,Employed,"$50,000 ",Good,780
+222,CHAPARRO-LOYA SERGIO,21,,Albuquerque,High School,Unemployed,$0 ,Poor,N/A
+223,LINDSEY MELODY,0,,Albuquerque,Bachelor's,Employed (Part-time),"$20,000 (Hourly)",Excellent,700
+224,MARQUEZ ANTHONY,54,,Albuquerque,Master's,Self-employed,"$100,000 (Seasonal)",Average,690
+225,MCGUIRE ROBERT,Unknown,,Albuquerque,,Student (Full-time),$0 ,Good,None
+226,DELOACH DONALD,62,,Albuquerque,PhD,Employed,"$120,000 ",Excellent,830
+227,NIETO DANNY,49,,Albuquerque,Associate,Unemployed,$0 ,Poor,550
+228,FINCH DAVID,60,,Albuquerque,High School,Gig Worker,"$35,000 (Unstable)",Average,620
+229,BOYER TIFFANY,Unknown,,Albuquerque,Bachelor's,Employed (Contract),"$80,000 ",Good,750
+230,FUQUA DESNIONTA,31,,Albuquerque,Master's,Retired,"$55,000 (Social Security)",Excellent,790
+231,CUNNINGHAM JOHN JR,69,,Albuquerque,PhD,Unemployed,$0 ,Poor,N/A
+232,ATTENCIO DAVID,30,,Albuquerque,Associate,Employed,"$45,000 ",Average,680
+233,CHADWELL ERICA,1,,Albuquerque,High School,Student (Part-time),"$15,000 (Summer Job)",Good,None
+234,MANUELITO ALEJANDRO,37,,Albuquerque,Bachelor's,Self-employed,"$110,000 ",Excellent,820
+235,BETONE AARON,44,,Albuquerque,,Unemployed,$0 ,Poor,480
+236,GARCIA LILLY,4,,Albuquerque,PhD,Employed,"$130,000 (Commission)",Average,710
+237,WEBSTER DANIEL,Unknown,,Albuquerque,Associate,Unemployed,$0 ,Good,N/A
+238,JOHNSON TANNIS,34,,Albuquerque,High School,Gig Worker,"$28,000 (Unstable)",Poor,520
+239,PUENTES MANUEL,29,,Albuquerque,Bachelor's,Employed (Contract),"$90,000 ",Excellent,770
+240,ANDRADE DANIEL,33,,Albuquerque,Master's,Retired,"$60,000 (Social Security)",Average,740
+241,KOLWALCHUK RANDY,21,,Albuquerque,PhD,Unemployed,$0 ,Poor,N/A
+242,MCKINLEY WILLIAM,55,,Albuquerque,Associate,Employed,"$50,000 ",Good,690
+243,VILLA ARTURO,18,,Albuquerque,High School,Student (Full-time),$0 ,Excellent,None
+244,CHAVEZ JORAY,25,,Albuquerque,Bachelor's,Self-employed,"$120,000 ",Excellent,840
+245,JENNINGS JERRY,43,,Albuquerque,,Unemployed,$0 ,Average,450
+246,GARCIA MYISHA,27,,Albuquerque,PhD,Employed,"$140,000 (Commission)",Good,730
+247,LOZANO ABRIL,30,,Albuquerque,Associate,Unemployed,$0 ,Poor,N/A
+248,AMBURGEY BRANDON,32,,Albuquerque,High School,Gig Worker,"$32,000 (Unstable)",Average,600
+249,LACKEY TYLER,24,,Albuquerque,Bachelor's,Employed (Contract),"$100,000 ",Excellent,790
+250,QUENTES BAILEY,38,,Albuquerque,Master's,Retired,"$65,000 (Social Security)",Good,760
+251,DAYEA JAYDEN,1,,Albuquerque,Master's,Student (Full-time),$0 ,Excellent,None
+252,ZEPEDA RUBEN,24,,Albuquerque,PhD,Employed,"$90,000 ",Good,800
+253,MOUZON AALIYAH,Unknown,,Albuquerque,Associate,Unemployed,$0 ,Poor,N/A
+254,VELASQUEZ ROSITA,58,,Albuquerque,High School,Employed (Part-time),"$25,000 (Hourly)",Excellent,740
+255,JUAREZ RAUL,37,,Albuquerque,Bachelor's,Self-employed,"$70,000 (Seasonal)",Average,670
+256,CHAVEZ LOUIS,26,,Albuquerque,,Retired,"$40,000 (Pension)",Good,710
+257,NGUYEN ANPHA,31,,Albuquerque,Associate,Gig Worker,"$42,000 (Unstable)",Average,640
+258,NGUYEN JERRY,31,,Albuquerque,High School,Employed,"$55,000 ",Excellent,780
+259,COYNER CORY,31,,Albuquerque,Bachelor's,Student (Part-time),"$18,000 (Summer Job)",Good,None
+260,GRACZYK LAWRENCE,52,,Albuquerque,Master's,Self-employed,"$140,000 ",Excellent,850
+261,HERRERA MICHAEL,30,,Albuquerque,,Unemployed,$0 ,Poor,420
+262,MARTINEZ WILLIAM,33,,Albuquerque,PhD,Employed,"$100,000 ",Average,750
+263,SORENSEN JONATHAN,25,,Albuquerque,Associate,Unemployed,$0 ,Good,N/A
+264,MARTINEZ JARED,33,,Albuquerque,High School,Gig Worker,"$30,000 (Unstable)",Poor,580
+265,PAYASO TYSON,28,,Albuquerque,Bachelor's,Employed (Contract),"$85,000 ",Excellent,720
+266,BACA CARLOS,31,,Albuquerque,Master's,Retired,"$50,000 (Social Security)",Average,700
+267,BACA JOE,31,,Albuquerque,PhD,Unemployed,$0 ,Poor,N/A
+268,SISNEROS RICHARD,46,,Albuquerque,Associate,Employed,"$40,000 ",Good,650
+269,AYALA ALFREDO,23,,Albuquerque,High School,Student (Full-time),$0 ,Excellent,None
+270,SAUCEDO JOE,52,,Albuquerque,Bachelor's,Self-employed (Business Closed),$0 ,Poor,450
+271,DELGADO VANESSA,26,,Albuquerque,,Unemployed,$0 ,Average,400
+272,THOMAS ANTONIO,22,,Albuquerque,PhD,Employed,"$110,000 (Commission)",Good,770
+273,ST AMAN-LUSK ROGER,Unknown,,Albuquerque,Associate,Unemployed,$0 ,Poor,N/A
+274,SANCHEZ LARRY,49,,Albuquerque,High School,Gig Worker,"$38,000 (Unstable)",Average,610
+275,ALONZO DALE,33,,Albuquerque,Bachelor's,Employed (Contract),"$95,000 ",Excellent,790
+276,ZARAGOZA ANTONIO,53,,Albuquerque,Master's,Retired,"$55,000 (Social Security)",Good,730
+277,RASCON AZURE,35,,Albuquerque,PhD,Unemployed,$0 ,Excellent (?!),N/A
+278,WILLS STEPHEN,46,,Albuquerque,Associate,Unemployed,$0 ,Poor,N/A
+279,LOVATO DANIEL JR,27,,Albuquerque,Master's,Self-employed,"$120,000 ",Good,810
+280,MARTINEZ FERMIN,20,,Albuquerque,,Employed (Part-time),"$15,000 (Hourly)",Excellent,690
+281,WARREN WILLIE,70,,Albuquerque,PhD,Gig Worker,"$50,000 (Unstable)",Average,700
+282,GRANDBERRY JANICE,59,,Albuquerque,Associate,Self-employed,"$80,000 (Seasonal)",Poor,590
+283,GONZALES BRIAN,34,,Albuquerque,Master's,Student (Full-time),$0 ,Excellent,None
+284,SAENZ-PONCE JUAN CARLOS,24,,Albuquerque,PhD,Employed,"$90,000 ",Good,800
+285,CHUMACERO DANIEL,24,,Albuquerque,Associate,Unemployed,$0 ,Poor,N/A
+286,SANCHEZ IRVIN,Unknown,,Albuquerque,High School,Employed (Part-time),"$25,000 (Hourly)",Excellent,740
+287,MARTENS VICTORIA,10,,Albuquerque,Bachelor's,Self-employed,"$70,000 (Seasonal)",Average,670
+288,THI TO CAM,39,,Albuquerque,,Retired,"$40,000 (Pension)",Good,710
+289,NGUYEN NHI,11,,Albuquerque,Associate,Gig Worker,"$42,000 (Unstable)",Average,640
+290,MARTINEZ DAVON,23,,Albuquerque,High School,Employed,"$55,000 ",Excellent,780
+291,LUCERO MICHAEL,39,,Albuquerque,Bachelor's,Student (Part-time),"$18,000 (Summer Job)",Good,None
+292,AGUIRRE HECTOR,47,,Albuquerque,Master's,Self-employed,"$140,000 ",Excellent,850
+293,VU NAM,30,,Albuquerque,,Unemployed,$0 ,Poor,420
+294,MARTINEZ ANGEL,22,,Albuquerque,PhD,Employed,"$100,000 ",Average,750
+295,BAZAN LUKE,31,,Albuquerque,Associate,Unemployed,$0 ,Good,N/A
+296,HASKELL LEWIS,63,,Albuquerque,High School,Gig Worker,"$30,000 (Unstable)",Poor,580
+297,TREJO JERRY,33,,Albuquerque,Bachelor's,Employed (Contract),"$85,000 ",Excellent,720
+298,MASCARENAS IAN,9,,Albuquerque,Master's,Retired,"$50,000 (Social Security)",Average,700
+299,MASCARENAS OLIVIA,6,,Albuquerque,PhD,Unemployed,$0 ,Poor,N/A
+300,MASCARENAS ELIJAH,5,,Albuquerque,Associate,Employed,"$40,000 ",Good,650
+301,MEDINA-PENA GILBERTO,32,,Albuquerque,High School,Student (Full-time),$0 ,Excellent,None
+302,MILLER CLIFFORD,42,,Albuquerque,Bachelor's,Self-employed (Business Closed),$0 ,Poor,450
+303,SALAS WILFRED,55,,Albuquerque,,Unemployed,$0 ,Average,400
+304,FLUITT DON,54,,Albuquerque,PhD,Employed,"$110,000 (Commission)",Good,770
+305,CHAVEZ RONALD,Unknown,,Albuquerque,Associate,Unemployed,$0 ,Poor,N/A
+306,MARTINEZ MARY,Unknown,,Albuquerque,High School,Gig Worker,"$38,000 (Unstable)",Average,610
+307,YOUNG DARYL,39,,Albuquerque,Bachelor's,Employed (Contract),"$95,000 ",Excellent,790
+308,STANFILL TOBI,20,,Albuquerque,Master's,Retired,"$55,000 (Social Security)",Good,730
+309,MARTINEZ CHRISTOPHER,39,,Albuquerque,Master's,Student (Full-time),$0 ,Excellent,None
+310,ARREDONDO SHAUNNA,Unknown,,Albuquerque,PhD,Employed,"$150,000 (Commission)",Good,820
+311,BOLING SHAYLEE,Unknown,,Albuquerque,Associate,Unemployed,$0 ,Poor,N/A
+312,GURULE ANDRES,Unknown,,Albuquerque,High School,Gig Worker,"$22,000 (Unstable)",Average,540
+313,GARCIA GEOVANIS,43,,Albuquerque,Bachelor's,Self-employed,"$80,000 ",Excellent,760
+314,MORGAN TONY,50,,Albuquerque,,Unemployed,$0 ,Poor,380 (Typo)
+315,ROMERO JUAN,26,,Albuquerque,Associate,Employed (Part-time),"$12,000 (Hourly)",Average,630
+316,MULLIN LARRY,58,,Albuquerque,High School,Employed,"$60,000 ",Excellent,800
+317,SIEBEN AARON,30,,Albuquerque,Bachelor's,Student (Part-time),"$15,000 (Summer Job)",Good,None
+318,GARCIA LEROY,21,,Albuquerque,Master's,Self-employed,"$100,000 (Seasonal)",Average,680
+319,STUART MINDY,30,,Albuquerque,PhD,Employed,"$150,000 (Outlier)",Excellent,880
+320,SAAVEDRA HARVEY,42,,Albuquerque,High School (GED),Unemployed,$0 ,Poor,N/A
+321,CARABAJAL JOHN,Unknown,,Albuquerque,Bachelor's,Self-employed,"$80,000 (Unstable)",Average,630
+322,HARPER BILLY,30,,Albuquerque,,Student (Internship),"$20,000 (Stipend)",Good,None
+323,RENOVA BLANCA,Unknown,,Albuquerque,Associate,Employed (Part-time),"$30,000 (Hourly)",Excellent,760
+324,CHAVEZ-VALDEZ JULIO,Unknown,,Albuquerque,Master's,Unemployed,$0 ,Poor,N/A
+325,MCARTHUR CAROLYN,66,,Albuquerque,PhD,Gig Worker,"$45,000 (Unstable)",Average,590
+326,AL ABBOUDY SAMIR,44,,Albuquerque,High School,Employed,"$60,000 ",Excellent,810
+327,JAQUEZ JAMES,32,,Albuquerque,Bachelor's,Student (Full-time),$0 ,Good,None
+328,ORTEGA JOSEPHINE,Unknown,,Albuquerque,,Self-employed,"$120,000 (Seasonal)",Average,660
+329,MANNING ERIC,Unknown,,Albuquerque,Associate,Unemployed,$0 ,Poor,N/A
+330,ARRELLANES CELINA,27,,Albuquerque,PhD,Employed,"$130,000 (Commission)",Good,740
+331,SEVERINGHAUS MATTHEW,25,,Albuquerque,Master's,Student (Full-time),$0 ,Excellent,None
+332,WAUNEKA LEON,Unknown,,Albuquerque,PhD,Employed,"$90,000 ",Good,800
+333,MUCHER JORDAN,Unknown,,Albuquerque,Associate,Unemployed,$0 ,Poor,N/A
+334,FRANCIA PAUL,Unknown,,Albuquerque,High School,Employed (Part-time),"$25,000 (Hourly)",Excellent,740
+335,MCCRAY HUBERT,Unknown,,Albuquerque,Bachelor's,Self-employed,"$70,000 (Seasonal)",Average,670
+336,MOLZHON LEO,Unknown,,Albuquerque,,Retired,"$40,000 (Pension)",Good,710
+337,TITO PACHECO,39,,Albuquerque,Associate,Gig Worker,"$42,000 (Unstable)",Average,640
+338,MEDINA JANNET,24,,Albuquerque,High School,Employed,"$55,000 ",Excellent,780
+339,FUENTES BARNEY,Unknown,,Albuquerque,Bachelor's,Student (Part-time),"$18,000 (Summer Job)",Good,None
+340,MIRAMONTES DANIEL,19,,Albuquerque,Master's,Self-employed,"$140,000 ",Excellent,850
+341,RIOS CONSUELA,19,,Albuquerque,,Unemployed,$0 ,Poor,420
+342,DIMAS JAIME,Unknown,,Albuquerque,PhD,Employed,"$100,000 ",Average,750
+343,SMITH JONATHAN,Unknown,,Albuquerque,Associate,Unemployed,$0 ,Good,N/A
+344,CARDENAS STEVEN,Unknown,,Albuquerque,High School,Gig Worker,"$30,000 (Unstable)",Poor,580
+345,MORENO MAXIMILIAN,59,,Albuquerque,Bachelor's,Employed (Contract),"$85,000 ",Excellent,720
+346,JABBOUR KHALIL,59,,Albuquerque,Master's,Retired,"$50,000 (Social Security)",Average,700
+347,RECIO MARTIN,Unknown,,Albuquerque,PhD,Unemployed,$0 ,Poor,N/A
+348,ESPINOSA ERICA,Unknown,,Albuquerque,Associate,Employed,"$40,000 ",Good,650
+349,WHITTLE LONNY,Unknown,,Albuquerque,High School,Student (Full-time),$0 ,Excellent,None
+350,MONTOYA LOUISE,73,,Albuquerque,Bachelor's,Self-employed (Business Closed),$0 ,Poor,450
+351,CRUZ OBED,17,,Albuquerque,,Unemployed,$0 ,Average,400
+352,SOYKA JOHN,41,,Albuquerque,PhD,Employed,"$110,000 (Commission)",Good,770
+353,WRIGHT MAURICE,Unknown,,Albuquerque,Associate,Unemployed,$0 ,Poor,N/A
+354,CHAVEZ ROY,Unknown,,Albuquerque,High School,Gig Worker,"$38,000 (Unstable)",Average,610
+355,FERNANDEZ RONNIE,34,,Albuquerque,Bachelor's,Employed (Contract),"$95,000 ",Excellent,790
+356,MIRABAL FREDDIE JR,Unknown,,Albuquerque,Master's,Retired,"$55,000 (Social Security)",Good,730
+357,THOMPSON ELWYN,56,,Albuquerque,PhD,Employed,"$150,000 (Outlier)",Excellent,880
+358,BLEA DAVID,Unknown,,Albuquerque,High School (GED),Unemployed,$0 ,Poor,N/A
+359,HICKS ERIC,Unknown,,Albuquerque,Bachelor's,Self-employed,"$80,000 (Unstable)",Average,630
+360,ANDREWS CHRISTOPHER,Unknown,,Albuquerque,,Student (Internship),"$20,000 (Stipend)",Good,None
+361,DELGADO JOSE,Unknown,,Albuquerque,Associate,Employed (Part-time),"$30,000 (Hourly)",Excellent,760
+362,ATENCIO CHRISTOPHER,25,,Albuquerque,Master's,Unemployed,$0 ,Poor,N/A
+363,BROWN THOMAS,Unknown,,Albuquerque,PhD,Gig Worker,"$45,000 (Unstable)",Average,590
+364,PEREZ TUBAYA,20,,Albuquerque,High School,Employed,"$60,000 ",Excellent,810
+365,BLEA DEMARKUS,23,,Albuquerque,Bachelor's,Student (Full-time),$0 ,Good,None
+366,GARCIA ALBERT,Unknown,,Albuquerque,,Self-employed,"$120,000 (Seasonal)",Average,660
+367,DUNKELBERGER ZACKERY,21,,Albuquerque,Associate,Unemployed,$0 ,Poor,N/A
+368,GUTIERREZ VINCENT,40,,Albuquerque,PhD,Employed,"$130,000 (Commission)",Good,740
+369,LOPEZ CHRISTOPHER,Unknown,,Albuquerque,Bachelor,Employed,"$80,000 ",Good,720
+370,HAWKINS DEVON,Unknown,,Albuquerque,Associate,Unemployed,$0 ,Excellent,N/A
+371,SANDOVAL SAMANTHA,19,,Albuquerque,PhD,Self-employed,"$120,000 ",Poor,550
+372,BRULE MARC,Unknown,,Albuquerque,High School,Employed,"$45,000 ",Excellent,800
+373,YANEZ DONALDO,Unknown,,Albuquerque,Master's,Retired,"$50,000 ",Average,680
+374,RAVENEL DEZMOND,22,,Albuquerque,,Student,$0 ,Good,N/A
+375,RAMIREZ THOMAS,Unknown,,Albuquerque,,Unemployed,Missing,Poor,400
+376,CHAVEZ MARQUS,Unknown,,Albuquerque,Associate,Employed,"$65,000 ",,750
+377,MALDONADO BENJAMIN,31,,Albuquerque,High School,Self-employed,"$30,000 ",Excellent,600
+378,WILLIS AUDRA,39,,Albuquerque,PhD,Employed,"$100,000 ",Average,790
+379,BIRDSONG ERNEST,29,,Atlanta,PhD,Retired,$0 ,Average,537
+380,REED MICHAEL,29,,Atlanta,Bachelor's,Unemployed,$0 ,Excellent,None
+381,FELICIANO JOHNNY,36,,Atlanta,High School,Unemployed,$0 ,Good,457
+382,SPENCER CHARLES,26,,Atlanta,PhD,Unemployed,$0 ,,N/A
+383,POPE LUKE,75,,Atlanta,Bachelor's,Retired,$0 ,,None
+384,LEARY ERNEST,22,,Atlanta,,Student,$0 ,,N/A
+385,HUNT BRUCE,40,,Atlanta,Master's,Self-employed,"$135,068 ",Average,794
+386,TURNER DEANDRA,1,,Atlanta,PhD,Employed,"($50,975)",Good,None
+387,BATEMAN DEMARIO,25,,Atl,Master's,Unemployed,$0 ,Good,814
+388,MILLS TERRY,25,,Atl,PhD,Self-employed,"($102,073)",Poor,780
+389,COMBS SCOTTIE,46,,Atl,High School,Freelance,"$25,000 (Hourly)",Excellent,720
+390,CLEVELAND DAVID,66,,Atl,,Student (Part-time),"$15,000 (Summer Job)",Good,None
+391,WILLIAMS STANLEY,20,,Atl,Master's,Retired (Early),"$35,000 (Pension)",Average,650
+392,MCDANIEL MARVIN,55,,Atl,Bachelor's,Self-employed,"$150,000 (Seasonal)",Poor,500
+393,DAVIS ABDULLAH,35,,Atl,Associate,Unemployed,$0 ,,N/A
+394,WILLIAMS MICHAEL,35,,Atl,PhD,Employed,"$110,000 (Commission)",Good,830
+395,BARRY-BUCHANAN MALIK,23,,Atl,Master's,Retired,"$48,000 (Social Security)",Excellent,750
+396,TERRY KEITH,28,,Atl,High School,Employed (Gig Work),"$30,000 (Unstable)",Poor,420
+397,HIGDON VARDAMAN,29,,Atl,Bachelor's,Student (Full-time),$0 ,Excellent,None
+398,BEALS LILLI,25,,Atlanta,PhD,Self-employed,$0 (Business Closed),Poor,480
+399,CUNNINGHAM RODNEY,29,,Atlanta,,Unemployed,$0 ,Excellent,N/A
+400,RIDDLES CIARA,22,,Atlanta,High School,Employed,"$40,000 ",Good,720
+401,GLASS BERNARD JR.,16,,Atlanta,Bachelor's,Student,$0 ,Excellent,None
+402,DOBBS CLAUDIA,41,,Atlanta,,Self-employed,"$60,000 (Unstable)",Poor,580
+403,LEE COURTNEY,23,,Atlanta,Master's,Unemployed,$0 ,Average,650
+404,HINES RASHINA,2,,Atlanta,PhD,Retired,"$75,000 (Pension)",Excellent,810
+405,CRAWFORD CHRISTOPHER,29,,Atlanta,Associate,Employed,"$50,000 ",Good,780
+406,LOPEZ-CARDENAS JOSE,35,,Atlanta,High School,Unemployed,$0 ,Poor,N/A
+407,WILLIAMSON JOSEPH,58,,Atlanta,Bachelor's,Employed (Part-time),"$20,000 (Hourly)",Excellent,700
+408,GARCIA-TELLEZ MARTIN,35,,Atlanta,Master's,Self-employed,"$100,000 (Seasonal)",Average,690
+409,SNOW ANTONIO,22,,Atlanta,,Student (Full-time),$0 ,Good,None
+410,LEE DEMARIO,19,,Atlanta,PhD,Employed,"$120,000 ",Excellent,830
+411,SNOW JAMES,40,,Atlanta,Associate,Unemployed,$0 ,Poor,550
+412,NEWBERRY ANTHONY,23,,Atlanta,High School,Gig Worker,"$35,000 (Unstable)",Average,620
+413,GADSON RONALD,32,,Atlanta,Bachelor's,Employed (Contract),"$80,000 ",Good,750
+414,NIAS FELIPE,22,,Atlanta,Master's,Retired,"$55,000 (Social Security)",Excellent,790
+415,MOORE KYLE,17,,Atlanta,PhD,Unemployed,$0 ,Poor,N/A
+416,ROGERS RAMON,26,,Atlanta,Associate,Employed,"$45,000 ",Average,680
+417,OSBY DWAYNE,34,,Atlanta,High School,Student (Part-time),"$15,000 (Summer Job)",Good,None
+418,NELSON LAWRENCE,29,,Atlanta,Bachelor's,Self-employed,"$110,000 ",Excellent,820
+419,WAUGH JERMAINE,25,,Atlanta,,Unemployed,$0 ,Poor,480
+420,GISH JESSE,63,,Atlanta,PhD,Employed,"$130,000 (Commission)",Average,710
+421,HILL MARSHALL,55,,Atlanta,Associate,Unemployed,$0 ,Good,N/A
+422,WILLIAMS TERRY,47,,Atlanta,High School,Gig Worker,"$28,000 (Unstable)",Poor,520
+423,HARRIS CHARLIE,35,,Atlanta,Bachelor's,Employed (Contract),"$90,000 ",Excellent,770
+424,HARRIS BRYAN,31,,Atlanta,Master's,Retired,"$60,000 (Social Security)",Average,740
+425,REED ROBERT,20,,Atlanta,PhD,Unemployed,$0 ,Poor,N/A
+426,BOSTON BRETT,35,,Atlanta,Associate,Employed,"$50,000 ",Good,690
+427,LEWIS MARQUETTE,24,,Atlanta,High School,Student (Full-time),$0 ,Excellent,None
+428,GRIFFIN RANDY,35,,Atlanta,Bachelor's,Self-employed,"$120,000 ",Excellent,840
+429,FELDER HAVANA,1,,Atlanta,,Unemployed,$0 ,Average,450
+430,PRICE RONALD,59,,Atlanta,PhD,Employed,"$140,000 (Commission)",Good,730
+431,COLLINS AKIRA,23,,Atlanta,Associate,Unemployed,$0 ,Poor,N/A
+432,HARRIS DAMIEN,17,,Atlanta,High School,Gig Worker,"$32,000 (Unstable)",Average,600
+433,MASON KENDRA,17,,Atlanta,Bachelor's,Employed (Contract),"$100,000 ",Excellent,790
+434,FOWLES DEON,27,,Atlanta,Master's,Retired,"$65,000 (Social Security)",Good,760
+435,HAMM DARIEL,19,,Atlanta,Master's,Student (Full-time),$0 ,Excellent,None
+436,WATSON BYRON,18,,Atlanta,PhD,Employed,"$90,000 ",Good,800
+437,PLATT JOHN,56,,Atlanta,Associate,Unemployed,$0 ,Poor,N/A
+438,PIERCE RONNIE,40,,Atlanta,High School,Employed (Part-time),"$25,000 (Hourly)",Excellent,740
+439,RANDELL TAVARIS,22,,Atlanta,Bachelor's,Self-employed,"$70,000 (Seasonal)",Average,670
+440,WHITAKER EVERETT,43,,Atlanta,,Retired,"$40,000 (Pension)",Good,710
+441,HILL VICTOR,24,,Atlanta,Associate,Gig Worker,"$42,000 (Unstable)",Average,640
+442,MCCLURE OKEDAS,46,,Atlanta,High School,Employed,"$55,000 ",Excellent,780
+443,JORDAN JAMES,68,,Atlanta,Bachelor's,Student (Part-time),"$18,000 (Summer Job)",Good,None
+444,BYAS LEONARD,24,,Atlanta,Master's,Self-employed,"$140,000 ",Excellent,850
+445,STONE CHAZ,22,,Atlanta,,Unemployed,$0 ,Poor,420
+446,MCDOWELL GLEN SR.,33,,Atlanta,PhD,Employed,"$100,000 ",Average,750
+447,NURSE EDWARD S,47,,Atlanta,Associate,Unemployed,$0 ,Good,N/A
+448,PERRY DERRICK,27,,Atlanta,High School,Gig Worker,"$30,000 (Unstable)",Poor,580
+449,IBRAHIM M-HAMMED,28,,Atlanta,Bachelor's,Employed (Contract),"$85,000 ",Excellent,720
+450,TESFAYE LUNA,22,,Atlanta,Master's,Retired,"$50,000 (Social Security)",Average,700
+451,YUSUF HANA,26,,Atlanta,PhD,Unemployed,$0 ,Poor,N/A
+452,FRAME TRACY,36,,Atlanta,Associate,Employed,"$40,000 ",Good,650
+453,ROLAX ANNAIJH,9,,Atlanta,High School,Student (Full-time),$0 ,Excellent,None
+454,MAYES DEON,29,,Atlanta,Bachelor's,Self-employed (Business Closed),$0 ,Poor,450
+455,MCKIBBENS ANTHONY,41,,Atlanta,,Unemployed,$0 ,Average,400
+456,CANTRELL RONNIE,54,,Atlanta,PhD,Employed,"$110,000 (Commission)",Good,770
+457,WILCOX TERRY,48,,Atlanta,Associate,Unemployed,$0 ,Poor,N/A
+458,BUSH JAMESON,21,,Atlanta,High School,Gig Worker,"$38,000 (Unstable)",Average,610
+459,CLEMONS BYRON,20,,Atlanta,Bachelor's,Employed (Contract),"$95,000 ",Excellent,790
+460,BILLINGSLEY ERIC,43,,Atlanta,Master's,Retired,"$55,000 (Social Security)",Good,730
+461,GARCIA VENANCIO,23,,Atlanta,PhD,Unemployed,$0 ,Excellent (?!),N/A
+462,SYDNEY TERRANCE,23,,Atlanta,Associate,Unemployed,$0 ,Poor,N/A
+463,STILWELL WILLIAM,21,,Atlanta,Master's,Self-employed,"$120,000 ",Good,810
+464,BROWN TORRENCE,51,,Atlanta,,Employed (Part-time),"$15,000 (Hourly)",Excellent,690
+465,HERNANDEZ-GONZALEZ HUMBERTO,34,,Atlanta,PhD,Gig Worker,"$50,000 (Unstable)",Average,700
+466,ARNOLD RONQUELL,19,,Atlanta,Associate,Self-employed,"$80,000 (Seasonal)",Poor,590
+467,PIMPTON DURRELL,23,,Atlanta,Master's,Student (Full-time),$0 ,Excellent,None
+468,ROSS DAVID,31,,Atlanta,PhD,Employed,"$90,000 ",Good,800
+469,GUARINI STEVE,49,,Atlanta,Associate,Unemployed,$0 ,Poor,N/A
+470,CATES JAMES JR.,58,,Atlanta,High School,Employed (Part-time),"$25,000 (Hourly)",Excellent,740
+471,COPELAND CHRISTOPHER,20,,Atlanta,Bachelor's,Self-employed,"$70,000 (Seasonal)",Average,670
+472,THOMAS MARIO,29,,Atlanta,,Retired,"$40,000 (Pension)",Good,710
+473,ROBINSON KANAII,27,,Atlanta,Associate,Gig Worker,"$42,000 (Unstable)",Average,640
+474,TYE JURA,27,,Atlanta,High School,Employed,"$55,000 ",Excellent,780
+475,RAY RHETT JR.,18,,Atlanta,Bachelor's,Student (Part-time),"$18,000 (Summer Job)",Good,None
+476,LOWE CHARLES,47,,Atlanta,Master's,Self-employed,"$140,000 ",Excellent,850
+477,ENGLISH GERALD,44,,Atlanta,,Unemployed,$0 ,Poor,420
+478,LOTT DONOVAN,47,,Atlanta,PhD,Employed,"$100,000 ",Average,750
+479,HUDGINS LEROY,52,,Atlanta,Associate,Unemployed,$0 ,Good,N/A
+480,BUGG NATALIE,35,,Atlanta,High School,Gig Worker,"$30,000 (Unstable)",Poor,580
+481,CANNON GREGORY,33,,Atlanta,Bachelor's,Employed (Contract),"$85,000 ",Excellent,720
+482,TURAY MOHAMED,38,,Atlanta,Master's,Retired,"$50,000 (Social Security)",Average,700
+483,WATSON SYLVESTER,51,,Atlanta,PhD,Unemployed,$0 ,Poor,N/A
+484,HILL CLEO,20,,Atlanta,Associate,Employed,"$40,000 ",Good,650
+485,WIGGINS TONY,39,,Atlanta,High School,Student (Full-time),$0 ,Excellent,None
+486,PUGH BARCHUNTAE,33,,Atlanta,Bachelor's,Self-employed (Business Closed),$0 ,Poor,450
+487,FERGUSON RICHARD,49,,Atlanta,,Unemployed,$0 ,Average,400
+488,MCGUIRE DENNIS,58,,Atlanta,PhD,Employed,"$110,000 (Commission)",Good,770
+489,CURRY OLIVER,40,,Atlanta,Associate,Unemployed,$0 ,Poor,N/A
+490,HUDSON DEONTE,18,,Atlanta,High School,Gig Worker,"$38,000 (Unstable)",Average,610
+491,CULLINS WALTER,18,,Atlanta,Bachelor's,Employed (Contract),"$95,000 ",Excellent,790
+492,DIRUL-ISLAM MANAJJ,42,,Atlanta,Master's,Retired,"$55,000 (Social Security)",Good,730
+493,LESTER MICHAEL,50,,Atlanta,Master's,Student (Full-time),$0 ,Excellent,None
+494,BELCHER KESHAWN,15,,Atlanta,PhD,Employed,"$150,000 (Commission)",Good,820
+495,PHILLIPS JARVIS,18,,Atlanta,Associate,Unemployed,$0 ,Poor,N/A
+496,BOYD PAMELA,44,,Atlanta,High School,Gig Worker,"$22,000 (Unstable)",Average,540
+497,BOSTON MARK,28,,Atlanta,Bachelor's,Self-employed,"$80,000 ",Excellent,760
+498,BOOKER RICHARD,78,,Atlanta,,Unemployed,$0 ,Poor,380 (Typo)
+499,MCQUIRE STEVE,20,,Atlanta,Associate,Employed (Part-time),"$12,000 (Hourly)",Average,630
+500,JONES JARVIS,17,,Atlanta,High School,Employed,"$60,000 ",Excellent,800
+501,PRICE ANTORIO,30,,Atlanta,Bachelor's,Student (Part-time),"$15,000 (Summer Job)",Good,None
+502,WASHINGTON BYRON,47,,Atlanta,Master's,Self-employed,"$100,000 (Seasonal)",Average,680
+503,YARBROUGH JAMES,35,,Atlanta,PhD,Employed,"$150,000 (Outlier)",Excellent,880
+504,LANGSTON TIMOTHY,25,,Atlanta,High School (GED),Unemployed,$0 ,Poor,N/A
+505,ROLAND RUSSELL,40,,Atlanta,Bachelor's,Self-employed,"$80,000 (Unstable)",Average,630
+506,HOGAN CARLOS,38,,Atlanta,,Student (Internship),"$20,000 (Stipend)",Good,None
+507,SANCHEZ WILSON,24,,Atlanta,Associate,Employed (Part-time),"$30,000 (Hourly)",Excellent,760
+508,RICHARDS JOSHUA,17,,Atlanta,Master's,Unemployed,$0 ,Poor,N/A
+509,BADILLO BLANCA,17,,Atlanta,PhD,Gig Worker,"$45,000 (Unstable)",Average,590
+510,LUVIANO POLICARPO,18,,Atlanta,High School,Employed,"$60,000 ",Excellent,810
+511,JONES DION,31,,Atlanta,Bachelor's,Student (Full-time),$0 ,Good,None
+512,BAILEY WILLIE,57,,Atlanta,,Self-employed,"$120,000 (Seasonal)",Average,660
+513,FRANTZ JEAN-PIERRE,26,,Atlanta,Associate,Unemployed,$0 ,Poor,N/A
+514,HILL RONNIE,46,,Atlanta,PhD,Employed,"$130,000 (Commission)",Good,740
+515,CRUMBLEY RAPHAEL,23,,Atlanta,Master's,Student (Full-time),$0 ,Excellent,None
+516,BOYD ALFRED,45,,Atlanta,PhD,Employed,"$90,000 ",Good,800
+517,HOLT DEMETRIUS,25,,Atlanta,Associate,Unemployed,$0 ,Poor,N/A
+518,JONES DAVID,Unknown,,Atlanta,High School,Employed (Part-time),"$25,000 (Hourly)",Excellent,740
+519,MILDTON JAKOBE,33,,Atlanta,Bachelor's,Self-employed,"$70,000 (Seasonal)",Average,670
+520,RODRIGUEZ JOSE,26,,Atlanta,,Retired,"$40,000 (Pension)",Good,710
+521,WILLIAMS SHANNON,17,,Atlanta,Associate,Gig Worker,"$42,000 (Unstable)",Average,640
+522,SANCHEZ-MENDEZ MARC,4,,Atlanta,High School,Employed,"$55,000 ",Excellent,780
+523,WALDON JEFFREY,26,,Atlanta,Bachelor's,Student (Part-time),"$18,000 (Summer Job)",Good,None
+524,STEGER SABRINA,22,,Atlanta,Master's,Self-employed,"$140,000 ",Excellent,850
+525,RAMEY BEN,101,,Atlanta,,Unemployed,$0 ,Poor,420
+526,BROWN MARLON,36,,Atlanta,PhD,Employed,"$100,000 ",Average,750
+527,LEWIS CLYDE,30,,Atlanta,Associate,Unemployed,$0 ,Good,N/A
+528,SPRATLING WESTON,24,,Atlanta,High School,Gig Worker,"$30,000 (Unstable)",Poor,580
+529,LOWE CHARLES,43,,Atlanta,Bachelor's,Employed (Contract),"$85,000 ",Excellent,720
+530,ANDERSON DARRELL,44,,Atlanta,Master's,Retired,"$50,000 (Social Security)",Average,700
+531,TOLBERT ANTOINE,21,,Atlanta,PhD,Unemployed,$0 ,Poor,N/A
+532,MCGHEE ROBERT,62,,Atlanta,Associate,Employed,"$40,000 ",Good,650
+533,JEFFRIES DEBORAH,51,,Atlanta,High School,Student (Full-time),$0 ,Excellent,None
+534,WASHINGTON JUSTIN,24,,Atlanta,Bachelor's,Self-employed (Business Closed),$0 ,Poor,450
+535,TORRES-GONZALES DOMINGO,29,,Atlanta,,Unemployed,$0 ,Average,400
+536,FIELDS JUWAN,24,,Atlanta,PhD,Employed,"$110,000 (Commission)",Good,770
+537,ENGLISH JAMES,51,,Atlanta,Associate,Unemployed,$0 ,Poor,N/A
+538,HANSELL JAMES,35,,Atlanta,High School,Gig Worker,"$38,000 (Unstable)",Average,610
+539,DRAYDEN DEMARQUEZ,17,,Atlanta,Bachelor's,Employed (Contract),"$95,000 ",Excellent,790
+540,ELLY ARAMINTA,25,,Atlanta,Master's,Retired,"$55,000 (Social Security)",Good,730
+541,NELSON KEITH,37,,Atlanta,PhD,Employed,"$150,000 (Outlier)",Excellent,880
+542,WILKERSON SHELTON,36,,Atlanta,High School (GED),Unemployed,$0 ,Poor,N/A
+543,DANIELS ELVIS,25,,Atlanta,Bachelor's,Self-employed,"$80,000 (Unstable)",Average,630
+544,JOHNSON THADDEUS,42,,Atlanta,,Student (Internship),"$20,000 (Stipend)",Good,None
+545,DENUNE CATHY,44,,Atlanta,Associate,Employed (Part-time),"$30,000 (Hourly)",Excellent,760
+546,KEMP KEVIN,17,,Atlanta,Master's,Unemployed,$0 ,Poor,N/A
+547,JENNINGS KYLE,20,,Atlanta,PhD,Gig Worker,"$45,000 (Unstable)",Average,590
+548,UPSHAW HERMAN,56,,Atlanta,High School,Employed,"$60,000 ",Excellent,810
+549,MORGAN RODRICUS,24,,Atlanta,Bachelor's,Student (Full-time),$0 ,Good,None
+550,BUCKLEY RAVEN,25,,Atlanta,,Self-employed,"$120,000 (Seasonal)",Average,660
+551,ANGELIN REGINALD JR.,31,,Atlanta,Associate,Unemployed,$0 ,Poor,N/A
+552,PALMER LITTLEBOOC,29,,Atlanta,PhD,Employed,"$130,000 (Commission)",Good,740
+553,GREEN JEFFERY,42,,Atlanta,Bachelor,Employed,"$80,000 ",Good,720
+554,WILLIS RANDY,25,,Atlanta,Associate,Unemployed,$0 ,Excellent,N/A
+555,ADAMS LEWIS,43,,Atlanta,PhD,Self-employed,"$120,000 ",Poor,550
+556,COLEMAN COREY,16,,Atlanta,High School,Employed,"$45,000 ",Excellent,800
+557,CANNON IMAN,21,,Atlanta,Master's,Retired,"$50,000 ",Average,680
+558,BUTTS WALSTEEN,33,,Atlanta,,Student,$0 ,Good,N/A
+559,JOHNSON RAYMOND,29,,Atlanta,,Unemployed,Missing,Poor,400
+560,WHITMAN RONALD JR.,32,,Atlanta,Associate,Employed,"$65,000 ",,750
+561,COLBERT KENNETH,48,,Atlanta,High School,Self-employed,"$30,000 ",Excellent,600
+562,BROWN AMIYA,1,,Atlanta,PhD,Employed,"$100,000 ",Average,790
+563,WEEMS FREDRICK,35,,Atlanta,PhD,Retired,$0 ,Average,537
+564,PARRISH DAYTREE,17,,Atlanta,Bachelor's,Unemployed,$0 ,Excellent,None
+565,WINGFIELD JERRY,29,,Atlanta,High School,Unemployed,$0 ,Good,457
+566,KENDRICK JAMAL,24,,Atlanta,PhD,Unemployed,$0 ,,N/A
+567,GLENN COREY,22,,Atlanta,Bachelor's,Retired,$0 ,,None
+568,ROSS CABOCUZ,29,,Atlanta,,Student,$0 ,,N/A
+569,ANDERSON MITCHELL,44,,Atlanta,Master's,Self-employed,"$135,068 ",Average,794
+570,SIMPSON MARCUS,28,,Atlanta,PhD,Employed,"($50,975)",Good,None
+571,STRONG ANTONIO,20,,Atlanta,Master's,Unemployed,$0 ,Good,814
+572,BYRD VONYELL,26,,Atlanta,PhD,Self-employed,"($102,073)",Poor,780
+573,ONYEMAECHI ETUS,48,,Atlanta,High School,Freelance,"$25,000 (Hourly)",Excellent,720
+574,RAMSEY CHRISTOPHER,27,,Atlanta,,Student (Part-time),"$15,000 (Summer Job)",Good,None
+575,SWIFT KAVIN,21,,Atlanta,Master's,Retired (Early),"$35,000 (Pension)",Average,650
+576,WILLIAMS RONALD,33,,Atlanta,Bachelor's,Self-employed,"$150,000 (Seasonal)",Poor,500
+577,STRIPLING MARVEL,23,,Atlanta,Associate,Unemployed,$0 ,,N/A
+578,COVERSON RICKY,50,,Atlanta,PhD,Employed,"$110,000 (Commission)",Good,830
+579,KAHN DANIEL,59,,Atlanta,Master's,Retired,"$48,000 (Social Security)",Excellent,750
+580,WILLIAMS WARREN JR.,44,,Atlanta,High School,Employed (Gig Work),"$30,000 (Unstable)",Poor,420
+581,JOHNSON BIANCA,25,,Atlanta,Bachelor's,Student (Full-time),$0 ,Excellent,None
+582,SHIRLEY MARCUS,24,,Atlanta,PhD,Self-employed,$0 (Business Closed),Poor,480
+583,ROBY DANNY JR.,18,,Atlanta,,Unemployed,$0 ,Excellent,N/A
+584,AVERY KASHMA,48,,Atlanta,High School,Employed,"$40,000 ",Good,720
+585,LAWRENCE JEFFREY,21,,Atlanta,Bachelor's,Student,$0 ,Excellent,None
+586,WINDER ANTONIO,46,,Atlanta,,Self-employed,"$60,000 (Unstable)",Poor,580
+587,SEABRUM STEPHANIE,36,,Atlanta,Master's,Unemployed,$0 ,Average,650
+588,DAVENPORT MARQUE,49,,Atlanta,PhD,Retired,"$75,000 (Pension)",Excellent,810
+589,DUNHAM SHERITA,38,,Atlanta,Associate,Employed,"$50,000 ",Good,780
+590,TANKS DONALD III,32,,Atlanta,High School,Unemployed,$0 ,Poor,N/A
+591,BOGGAN SHAWN,38,,Atlanta,Bachelor's,Employed (Part-time),"$20,000 (Hourly)",Excellent,700
+592,SMITH ALBERT,30,,Atlanta,Master's,Self-employed,"$100,000 (Seasonal)",Average,690
+593,CINTRON JESUS,27,,Atlanta,,Student (Full-time),$0 ,Good,None
+594,WINFIELD FERNANDO,15,,Atlanta,PhD,Employed,"$120,000 ",Excellent,830
+595,JONES DEVONTAE,17,,Atlanta,Associate,Unemployed,$0 ,Poor,550
+596,LOPEZ SALVADOR,34,,Atlanta,High School,Gig Worker,"$35,000 (Unstable)",Average,620
+597,DONIS CARMELO,46,,Atlanta,Bachelor's,Employed (Contract),"$80,000 ",Good,750
+598,CAMPBELL BERNARD,44,,Atlanta,Master's,Retired,"$55,000 (Social Security)",Excellent,790
+599,SEWELL ALTON,32,,Atlanta,PhD,Unemployed,$0 ,Poor,N/A
+600,DANIEL STEVEN,29,,Atlanta,Associate,Employed,"$45,000 ",Average,680
+601,JONES CARLENE,47,,Atlanta,High School,Student (Part-time),"$15,000 (Summer Job)",Good,None
+602,COGBURN KASEY,29,,Atlanta,Bachelor's,Self-employed,"$110,000 ",Excellent,820
+603,WATERS KENNETH,19,,Atlanta,,Unemployed,$0 ,Poor,480
+604,MARTIN PAUL,19,,Atlanta,PhD,Employed,"$130,000 (Commission)",Average,710
+605,LUMAR DARREN,38,,Atlanta,Associate,Unemployed,$0 ,Good,N/A
+606,MEADOWS JULIE,47,,Atlanta,High School,Gig Worker,"$28,000 (Unstable)",Poor,520
+607,SINGLETON ELIJAH,2,,Atlanta,Bachelor's,Employed (Contract),"$90,000 ",Excellent,770
+608,HILL DEMETRIUS,24,,Atlanta,Master's,Retired,"$60,000 (Social Security)",Average,740
+609,RAUDALES-CALILLAS ANTONIO,55,,Atlanta,PhD,Unemployed,$0 ,Poor,N/A
+610,FERRELL JASON,34,,Atlanta,Associate,Employed,"$50,000 ",Good,690
+611,JOHNSON NASHWAD,24,,Atlanta,High School,Student (Full-time),$0 ,Excellent,None
+612,HENDERSON JOHN,27,,Atlanta,Bachelor's,Self-employed,"$120,000 ",Excellent,840
+613,FREEMAN ADAIR,19,,Atlanta,,Unemployed,$0 ,Average,450
+614,COOK JAMES,32,,Atlanta,PhD,Employed,"$140,000 (Commission)",Good,730
+615,SKRINE DURENTAY,38,,Atlanta,Associate,Unemployed,$0 ,Poor,N/A
+616,DAVENPORT LEITHA,Unknown,,Atlanta,High School,Gig Worker,"$32,000 (Unstable)",Average,600
+617,MCZEAL TOSHER,29,,Atlanta,Bachelor's,Employed (Contract),"$100,000 ",Excellent,790
+618,DURHAM LEROY JR.,60,,Atlanta,Master's,Retired,"$65,000 (Social Security)",Good,760
+619,CHAMBERS ROBERT,49,,Atlanta,Master's,Student (Full-time),$0 ,Excellent,None
+620,JACKSON VALDEMOR,49,,Atlanta,PhD,Employed,"$90,000 ",Good,800
+621,CALLE EUGENIA,57,,Atlanta,Associate,Unemployed,$0 ,Poor,N/A
+622,WILLIAMS MILO,31,,Atlanta,High School,Employed (Part-time),"$25,000 (Hourly)",Excellent,740
+623,MILLER FREDDIE,44,,Atlanta,Bachelor's,Self-employed,"$70,000 (Seasonal)",Average,670
+624,MONTGOMERY GEORGE,49,,Atlanta,,Retired,"$40,000 (Pension)",Good,710
+625,CAROLTON TYNISHA,1,,Atlanta,Associate,Gig Worker,"$42,000 (Unstable)",Average,640
+626,BANKS LINDA,58,,Atlanta,High School,Employed,"$55,000 ",Excellent,780
+627,MCCRAE RICKY,23,,Atlanta,Bachelor's,Student (Part-time),"$18,000 (Summer Job)",Good,None
+628,ROY HARISH,24,,Atlanta,Master's,Self-employed,"$140,000 ",Excellent,850
+629,BOOKER CARVEL,28,,Atlanta,,Unemployed,$0 ,Poor,420
+630,MARTIN NICHOLAS,16,,Atlanta,PhD,Employed,"$100,000 ",Average,750
+631,WRIGHT HENRY,34,,Atlanta,Associate,Unemployed,$0 ,Good,N/A
+632,BRINKLEY TYQUAVIOUS,13,,Atlanta,High School,Gig Worker,"$30,000 (Unstable)",Poor,580
+633,ANIM STEPHEN,57,,Atlanta,Bachelor's,Employed (Contract),"$85,000 ",Excellent,720
+634,ROBERSON CHARLES,28,,Atlanta,Master's,Retired,"$50,000 (Social Security)",Average,700
+635,ZACHERY KENNETH,20,,Atlanta,PhD,Unemployed,$0 ,Poor,N/A
+636,KELLY STAFFORN,24,,Atlanta,Associate,Employed,"$40,000 ",Good,650
+637,GIBSON ARCHIE,24,,Atlanta,High School,Student (Full-time),$0 ,Excellent,None
+638,KELLEY ANTONIO,32,,Atlanta,Bachelor's,Self-employed (Business Closed),$0 ,Poor,450
+639,YOUNG LEONARD,20,,Atlanta,,Unemployed,$0 ,Average,400
+640,THOMAS LATOYA,31,,Atlanta,PhD,Employed,"$110,000 (Commission)",Good,770
+641,CULLINS DERRICK,26,,Atlanta,Associate,Unemployed,$0 ,Poor,N/A
+642,BOLAND PATRICK,43,,Atlanta,High School,Gig Worker,"$38,000 (Unstable)",Average,610
+643,MARTIN SHEENA,26,,Atlanta,Bachelor's,Employed (Contract),"$95,000 ",Excellent,790
+644,EARLE BRUCE,25,,Atlanta,Master's,Retired,"$55,000 (Social Security)",Good,730
+645,PIERCE FRANKLIN,21,,Atlanta,PhD,Unemployed,$0 ,Excellent (?!),N/A
+646,HOWARD ALEX,29,,Atlanta,Associate,Unemployed,$0 ,Poor,N/A
+647,REYNOLDS ANDRE,34,,Atlanta,Master's,Self-employed,"$120,000 ",Good,810
+648,NAVARETE RAPHAEL,30,,Atlanta,,Employed (Part-time),"$15,000 (Hourly)",Excellent,690
+649,MONTGOMERY ANTONIO,26,,Atlanta,PhD,Gig Worker,"$50,000 (Unstable)",Average,700
+650,SOKOL LEE,55,,Atlanta,Associate,Self-employed,"$80,000 (Seasonal)",Poor,590
+651,FANNING JOELE,36,,Atlanta,Master's,Student (Full-time),$0 ,Excellent,None
+652,AKINSANYA AFOLARIN,32,,Atlanta,PhD,Employed,"$90,000 ",Good,800
+653,WOODS RENATO,40,,Atlanta,Associate,Unemployed,$0 ,Poor,N/A
+654,SMITH DOMINIQUE,18,,Atlanta,High School,Employed (Part-time),"$25,000 (Hourly)",Excellent,740
+655,RAY MICHAEL,39,,Atlanta,Bachelor's,Self-employed,"$70,000 (Seasonal)",Average,670
+656,EDWARDS CLARENCE,35,,Atlanta,,Retired,"$40,000 (Pension)",Good,710
+657,WATSON ALAN,15,,Atlanta,Associate,Gig Worker,"$42,000 (Unstable)",Average,640
+658,WEBB LARRY,31,,Atlanta,High School,Employed,"$55,000 ",Excellent,780
+659,FORREST VERNON,38,,Atlanta,Bachelor's,Student (Part-time),"$18,000 (Summer Job)",Good,None
+660,WATSON TIMOTHY,46,,Atlanta,Master's,Self-employed,"$140,000 ",Excellent,850
+661,BROWN BRANDY,27,,Atlanta,,Unemployed,$0 ,Poor,420
+662,BENJAMIN THADDEUS,21,,Atlanta,PhD,Employed,"$100,000 ",Average,750
+663,BAYNES PUCKETT,48,,Atlanta,Associate,Unemployed,$0 ,Good,N/A
+664,ROBINSON SILAS,35,,Atlanta,High School,Gig Worker,"$30,000 (Unstable)",Poor,580
+665,SIMS JAMES III,25,,Atlanta,Bachelor's,Employed (Contract),"$85,000 ",Excellent,720
+666,LANE SHYKERIA,20,,Atlanta,Master's,Retired,"$50,000 (Social Security)",Average,700
+667,BLASH ALLEN JR.,24,,Atlanta,PhD,Unemployed,$0 ,Poor,N/A
+668,YOO DOO,77,,Atlanta,Associate,Employed,"$40,000 ",Good,650
+669,THOMAS IVORY,39,,Atlanta,High School,Student (Full-time),$0 ,Excellent,None
+670,DENT CRYSTAL,37,,Atlanta,Bachelor's,Self-employed (Business Closed),$0 ,Poor,450
+671,BURFORD DONNA,44,,Atlanta,,Unemployed,$0 ,Average,400
+672,WILSON KEITH,29,,Atlanta,PhD,Employed,"$110,000 (Commission)",Good,770
+673,BOLAN WAYNE,43,,Atlanta,Associate,Unemployed,$0 ,Poor,N/A
+674,SMITH JEANETTE,66,,Atlanta,High School,Gig Worker,"$38,000 (Unstable)",Average,610
+675,COOPER XAVIER,21,,Atlanta,Bachelor's,Employed (Contract),"$95,000 ",Excellent,790
+676,ALLEN QUANTINO,38,,Atlanta,Master's,Retired,"$55,000 (Social Security)",Good,730
+677,BLOODSOE JAMES,19,,Atlanta,Master's,Student (Full-time),$0 ,Excellent,None
+678,CLIMER GARY,60,,Atlanta,PhD,Employed,"$150,000 (Commission)",Good,820
+679,BROWNING DIONTA,29,,Atlanta,Associate,Unemployed,$0 ,Poor,N/A
+680,MCBRIDE CURTIS,19,,Atlanta,High School,Gig Worker,"$22,000 (Unstable)",Average,540
+681,PHILLIPS ROCHELLE,68,,Atlanta,Bachelor's,Self-employed,"$80,000 ",Excellent,760
+682,DUNN JEREMY,25,,Atlanta,,Unemployed,$0 ,Poor,380 (Typo)
+683,IFILL KEVIN,25,,Atlanta,Associate,Employed (Part-time),"$12,000 (Hourly)",Average,630
+684,MCKIBBEN KAVADER,21,,Atlanta,High School,Employed,"$60,000 ",Excellent,800
+685,ROBINSON STANLEY,50,,Atlanta,Bachelor's,Student (Part-time),"$15,000 (Summer Job)",Good,None
+686,HOLLIDAY CAROLINE,51,,Atlanta,Master's,Self-employed,"$100,000 (Seasonal)",Average,680
+687,JAMES CASSANDRA,30,,Atlanta,PhD,Employed,"$150,000 (Outlier)",Excellent,880
+688,KNIGHT ELIZABETH,24,,Atlanta,High School (GED),Unemployed,$0 ,Poor,N/A
+689,FOSTER JAMES,30,,Atlanta,Bachelor's,Self-employed,"$80,000 (Unstable)",Average,630
+690,RAND THADDEUS,46,,Atlanta,,Student (Internship),"$20,000 (Stipend)",Good,None
+691,WILLIAMS DANTA,30,,Atlanta,Associate,Employed (Part-time),"$30,000 (Hourly)",Excellent,760
+692,WILLIAMS MONICA,40,,Atlanta,Master's,Unemployed,$0 ,Poor,N/A
+693,CLARK TRACY,39,,Atlanta,PhD,Gig Worker,"$45,000 (Unstable)",Average,590
+694,NEWKIRK FREDRICKO,22,,Atlanta,High School,Employed,"$60,000 ",Excellent,810
+695,LEMON MICHAEL,50,,Atlanta,Bachelor's,Student (Full-time),$0 ,Good,None
+696,DOUGLAS ANTONIO,25,,Atlanta,,Self-employed,"$120,000 (Seasonal)",Average,660
+697,SMITH T'SHANERKA,33,,Atlanta,Associate,Unemployed,$0 ,Poor,N/A
+698,MCDEW ELAJAH,19,,Atlanta,PhD,Employed,"$130,000 (Commission)",Good,740
+699,BROOKS TERRANCE,28,,Atlanta,Master's,Student (Full-time),$0 ,Excellent,None
+700,RANKINS ANTHONY,27,,Atlanta,PhD,Employed,"$90,000 ",Good,800
+701,FIANDT MAXWELL,23,,Atlanta,Associate,Unemployed,$0 ,Poor,N/A
+702,JOHNSON YOLANDA,35,,Atlanta,High School,Employed (Part-time),"$25,000 (Hourly)",Excellent,740
+703,BERNADOTTE MULLER,32,,Atlanta,Bachelor's,Self-employed,"$70,000 (Seasonal)",Average,670
+704,CURRY ANTWAN,33,,Atlanta,,Retired,"$40,000 (Pension)",Good,710
+705,WILSON DEZMOND,24,,Atlanta,Associate,Gig Worker,"$42,000 (Unstable)",Average,640
+706,JOYNER LAKESHA,26,,Atlanta,High School,Employed,"$55,000 ",Excellent,780
+707,MYRICK LINDA,45,,Atlanta,Bachelor's,Student (Part-time),"$18,000 (Summer Job)",Good,None
+708,COLE MATTHEW,26,,Atlanta,Master's,Self-employed,"$140,000 ",Excellent,850
+709,GIDDENS JOSEPH,46,,Atlanta,,Unemployed,$0 ,Poor,420
+710,WHITMORE JOHN,44,,Atlanta,PhD,Employed,"$100,000 ",Average,750
+711,WEEMS UNTRAVES,32,,Atlanta,Associate,Unemployed,$0 ,Good,N/A
+712,MACKLIN ANTOINE,26,,Atlanta,High School,Gig Worker,"$30,000 (Unstable)",Poor,580
+713,RIDEAUX TIMOTHY,25,,Atlanta,Bachelor's,Employed (Contract),"$85,000 ",Excellent,720
+714,BAKER MARCUS,29,,Atlanta,Master's,Retired,"$50,000 (Social Security)",Average,700
+715,GLASS DONNY,32,,Atlanta,PhD,Unemployed,$0 ,Poor,N/A
+716,CULPEPPER BERNARD,58,,Atlanta,Associate,Employed,"$40,000 ",Good,650
+717,MANN NELSON,23,,Atlanta,High School,Student (Full-time),$0 ,Excellent,None
+718,THOMAS STACY,19,,Atlanta,Bachelor's,Self-employed (Business Closed),$0 ,Poor,450
+719,SEARCY TRACY,19,,Atlanta,,Unemployed,$0 ,Average,400
+720,SLATON DIVIUS,28,,Atlanta,PhD,Employed,"$110,000 (Commission)",Good,770
+721,DAVIS DEUAN,16,,Atlanta,Associate,Unemployed,$0 ,Poor,N/A
+722,SMITH DEMETRA,47,,Atlanta,High School,Gig Worker,"$38,000 (Unstable)",Average,610
+723,BRYANT HENRY,33,,Atlanta,Bachelor's,Employed (Contract),"$95,000 ",Excellent,790
+724,KIRBY DEVEREAUX,36,,Atlanta,Master's,Retired,"$55,000 (Social Security)",Good,730
+725,ATCHISON SHELDON,22,,Atlanta,PhD,Employed,"$150,000 (Outlier)",Excellent,880
+726,HAROLD DANTAVIOUS,27,,Atlanta,High School (GED),Unemployed,$0 ,Poor,N/A
+727,BROOKS MARQUISE,22,,Atlanta,Bachelor's,Self-employed,"$80,000 (Unstable)",Average,630
+728,JONES FRANK,33,,Atlanta,,Student (Internship),"$20,000 (Stipend)",Good,None
+729,MOSLEY MICHAEL,30,,Atlanta,Associate,Employed (Part-time),"$30,000 (Hourly)",Excellent,760
+730,ANDREWS ARTHUR,32,,Atlanta,Master's,Unemployed,$0 ,Poor,N/A
+731,SUNG BAIK,62,,Atlanta,PhD,Gig Worker,"$45,000 (Unstable)",Average,590
+732,HARRIS JASMINE,17,,Atlanta,High School,Employed,"$60,000 ",Excellent,810
+733,PENDERGRASS JOSEPH,57,,Atlanta,Bachelor's,Student (Full-time),$0 ,Good,None
+734,BROWN TANORRIS,26,,Atlanta,,Self-employed,"$120,000 (Seasonal)",Average,660
+735,KINGSBERRY ZAQUAVIA,33,,Atlanta,Associate,Unemployed,$0 ,Poor,N/A
+736,DORSEY KENORIS,32,,Atlanta,PhD,Employed,"$130,000 (Commission)",Good,740
+737,THOMAS JAPHILA,32,,Atlanta,Bachelor,Employed,"$80,000 ",Good,720
+738,MADDOX ERNEST,46,,Atlanta,Associate,Unemployed,$0 ,Excellent,N/A
+739,HILL TONY,38,,Atlanta,PhD,Self-employed,"$120,000 ",Poor,550
+740,SMITH GREGORY,47,,Atlanta,High School,Employed,"$45,000 ",Excellent,800
+741,JOWERS EDWARD,64,,Atlanta,Master's,Retired,"$50,000 ",Average,680
+742,JERKINS JAZMINE,3,,Atlanta,,Student,$0 ,Good,N/A
+743,JORDAN TONY,39,,Atlanta,,Unemployed,Missing,Poor,400
+744,TURNER MARTINEZ,38,,Atlanta,Associate,Employed,"$65,000 ",,750
+745,ROBINSON DURAND,50,,Atlanta,High School,Self-employed,"$30,000 ",Excellent,600
+746,ROBINSON TAMMY,28,,Atlanta,PhD,Employed,"$100,000 ",Average,790
+747,JONES WILLIAM III,39,,Atlanta,PhD,Retired,$0 ,Average,537
+748,STREETER CALVIN,26,,Atlanta,Bachelor's,Unemployed,$0 ,Excellent,None
+749,BLIZZARD SAMUEL JR.,21,,Atlanta,High School,Unemployed,$0 ,Good,457
+750,VILBURN CRUYFF,32,,Atlanta,PhD,Unemployed,$0 ,,N/A
+751,EMMANUEL ALSTON,92,,Atlanta,Bachelor's,Retired,$0 ,,None
+752,HASSANAI QWANI,69,,Atlanta,,Student,$0 ,,N/A
+753,LOVE LADEDDRIC,19,,Atlanta,Master's,Self-employed,"$135,068 ",Average,794
+754,WILDER RANDY,27,,Atlanta,PhD,Employed,"($50,975)",Good,None
+755,NELSON THADDEUS,25,,Atlanta,Master's,Unemployed,$0 ,Good,814
+756,WILLIAMS LAWRENCE,48,,Atlanta,PhD,Self-employed,"($102,073)",Poor,780
+757,ROSALES JORGE,21,,Atlanta,High School,Freelance,"$25,000 (Hourly)",Excellent,720
+758,LYNN CHRISTOPHER,31,,Atlanta,,Student (Part-time),"$15,000 (Summer Job)",Good,None
+759,CALLISON WILLIAM,52,,Atlanta,Master's,Retired (Early),"$35,000 (Pension)",Average,650
+760,HOLLOWAY AARON,33,,Atlanta,Bachelor's,Self-employed,"$150,000 (Seasonal)",Poor,500
+761,ATKINS DAVID,38,,Atlanta,Associate,Unemployed,$0 ,,N/A
+762,COLLINS EVERETT,57,,Atlanta,PhD,Employed,"$110,000 (Commission)",Good,830
+763,JONES BRANDON,23,,Atlanta,Master's,Retired,"$48,000 (Social Security)",Excellent,750
+764,DYE DONALD,55,,Atlanta,High School,Employed (Gig Work),"$30,000 (Unstable)",Poor,420
+765,SEYMORE ROOSEVELT,26,,Atlanta,Bachelor's,Student (Full-time),$0 ,Excellent,None
+766,WHITE LOSHANNON,30,,Atlanta,PhD,Self-employed,$0 (Business Closed),Poor,480
+767,GONZALEZ EDGAR,24,,Atlanta,,Unemployed,$0 ,Excellent,N/A
+768,JONES RACHEL,41,,Atlanta,High School,Employed,"$40,000 ",Good,720
+769,IRVING TAVARUS,19,,Atlanta,Bachelor's,Student,$0 ,Excellent,None
+770,MCLESTER MADISON,25,,Atlanta,,Self-employed,"$60,000 (Unstable)",Poor,580
+771,SMITH TAMMY,47,,Atlanta,Master's,Unemployed,$0 ,Average,650
+772,WALTON JIMMY,38,,Atlanta,PhD,Retired,"$75,000 (Pension)",Excellent,810
+773,PIERCE STEPHEN,31,,Atlanta,Associate,Employed,"$50,000 ",Good,780
+774,BARLOW ANDREW,25,,Atlanta,High School,Unemployed,$0 ,Poor,N/A
+775,BOYER CHARLES,39,,Atlanta,Bachelor's,Employed (Part-time),"$20,000 (Hourly)",Excellent,700
+776,CHANEY QUENTIN,23,,Atlanta,Master's,Self-employed,"$100,000 (Seasonal)",Average,690
+777,WRIGHT WAYNE,29,,Atlanta,,Student (Full-time),$0 ,Good,None
+778,SLAUGHTER BARRY,52,,Atlanta,PhD,Employed,"$120,000 ",Excellent,830
+779,TUCKER LYNDON,27,,Atlanta,Associate,Unemployed,$0 ,Poor,550
+780,WRIGHT AARON,40,,Atlanta,High School,Gig Worker,"$35,000 (Unstable)",Average,620
+781,DORSEY SHYKISHA,18,,Atlanta,Bachelor's,Employed (Contract),"$80,000 ",Good,750
+782,WASHINGTON KEVIN,51,,Atlanta,Master's,Retired,"$55,000 (Social Security)",Excellent,790
+783,CERASOLI PAULINE,71,,Atlanta,PhD,Unemployed,$0 ,Poor,N/A
+784,JOHNSON RICHARD,23,,Atlanta,Associate,Employed,"$45,000 ",Average,680
+785,WASHINGTON MARION,21,,Atlanta,High School,Student (Part-time),"$15,000 (Summer Job)",Good,None
+786,LUCAS JEMAR,21,,Atlanta,Bachelor's,Self-employed,"$110,000 ",Excellent,820
+787,JEFFERSON EARL,22,,Atlanta,,Unemployed,$0 ,Poor,480
+788,CARR KENEISHA,23,,Atlanta,PhD,Employed,"$130,000 (Commission)",Average,710
+789,BEYENE JAGANA,26,,Atlanta,Associate,Unemployed,$0 ,Good,N/A
+790,GRIFFIN ALBERT,40,,Atlanta,High School,Gig Worker,"$28,000 (Unstable)",Poor,520
+791,SWAINE ELIJA,62,,Atlanta,Bachelor's,Employed (Contract),"$90,000 ",Excellent,770
+792,FENTY TRAVIS,44,,Atlanta,Master's,Retired,"$60,000 (Social Security)",Average,740
+793,JACOBS KEITH,29,,Atlanta,PhD,Unemployed,$0 ,Poor,N/A
+794,WEBB TOMIKA,36,,Atlanta,Associate,Employed,"$50,000 ",Good,690
+795,COOPER JAMIL,24,,Atlanta,High School,Student (Full-time),$0 ,Excellent,None
+796,PRINTUP MARVIN,48,,Atlanta,Bachelor's,Self-employed,"$120,000 ",Excellent,840
+797,MAYES JOVONTA,19,,Atlanta,,Unemployed,$0 ,Average,450
+798,PATTERSON DELOREAN,19,,Atlanta,PhD,Employed,"$140,000 (Commission)",Good,730
+799,MOSES DEREK,56,,Atlanta,Associate,Unemployed,$0 ,Poor,N/A
+800,WRIGHT ANTONIO,32,,Atlanta,High School,Gig Worker,"$32,000 (Unstable)",Average,600
+801,MILLER SAMUEL,1,,Atlanta,Bachelor's,Employed (Contract),"$100,000 ",Excellent,790
+802,JACKSON FELIX,51,,Atlanta,Master's,Retired,"$65,000 (Social Security)",Good,760
+803,BENTON JAMO,47,,Atlanta,Master's,Student (Full-time),$0 ,Excellent,None
+804,HAMBRICK MARCUS,37,,Atlanta,PhD,Employed,"$90,000 ",Good,800
+805,FAVORS TROY,45,,Atlanta,Associate,Unemployed,$0 ,Poor,N/A
+806,HAMBRICK DEMONS,30,,Atlanta,High School,Employed (Part-time),"$25,000 (Hourly)",Excellent,740
+807,HESTER MICHAEL,26,,Atlanta,Bachelor's,Self-employed,"$70,000 (Seasonal)",Average,670
+808,TAYLOR RICHARD,82,,Atlanta,,Retired,"$40,000 (Pension)",Good,710
+809,PRUITT TIMOTHY,45,,Atlanta,Associate,Gig Worker,"$42,000 (Unstable)",Average,640
+810,MAYERS CHASE,0,,Atlanta,High School,Employed,"$55,000 ",Excellent,780
+811,MCINTOSH KEVIN,40,,Atlanta,Bachelor's,Student (Part-time),"$18,000 (Summer Job)",Good,None
+812,BAILEY JAMAYIA,0,,Atlanta,Master's,Self-employed,"$140,000 ",Excellent,850
+813,SNEED DIANE,57,,Atlanta,,Unemployed,$0 ,Poor,420
+814,COLSTON EDDIE,50,,Atlanta,PhD,Employed,"$100,000 ",Average,750
+815,WHITE JEROME,35,,Atlanta,Associate,Unemployed,$0 ,Good,N/A
+816,WESTBROOK LAMAURICE,29,,Atlanta,High School,Gig Worker,"$30,000 (Unstable)",Poor,580
+817,HUNT THANDIWE,21,,Atlanta,Bachelor's,Employed (Contract),"$85,000 ",Excellent,720
+818,WELCH-ROGERS JOSEFICES,39,,Atlanta,Master's,Retired,"$50,000 (Social Security)",Average,700
+819,LEWIS RANDY,47,,Atlanta,PhD,Unemployed,$0 ,Poor,N/A
+820,JONES WILLIE,39,,Atlanta,Associate,Employed,"$40,000 ",Good,650
+821,COOK ABRON,36,,Atlanta,High School,Student (Full-time),$0 ,Excellent,None
+822,WATKINS MONTARIA,33,,Atlanta,Bachelor's,Self-employed (Business Closed),$0 ,Poor,450
+823,HOGAN JOSHUA,18,,Atlanta,,Unemployed,$0 ,Average,400
+824,FOSTER NICHOLAS,24,,Atlanta,PhD,Employed,"$110,000 (Commission)",Good,770
+825,RHYM NATASHA,27,,Atlanta,Associate,Unemployed,$0 ,Poor,N/A
+826,FLEMISTER BOBBY,19,,Atlanta,High School,Gig Worker,"$38,000 (Unstable)",Average,610
+827,WALKER CHRISTOPHER,31,,Atlanta,Bachelor's,Employed (Contract),"$95,000 ",Excellent,790
+828,WATTS BRITTANY,25,,Atlanta,Master's,Retired,"$55,000 (Social Security)",Good,730
+829,THOMAS CHARLES,21,,Atlanta,PhD,Unemployed,$0 ,Excellent (?!),N/A
+830,DANIEL HENRY,64,,Atlanta,Associate,Unemployed,$0 ,Poor,N/A
+831,SMITH JOHN JR.,36,,Atlanta,Master's,Self-employed,"$120,000 ",Good,810
+832,ATKINS BRANDON,25,,Atlanta,,Employed (Part-time),"$15,000 (Hourly)",Excellent,690
+833,GASTON LAURENCE,40,,Atlanta,PhD,Gig Worker,"$50,000 (Unstable)",Average,700
+834,JONES JULLIAN,23,,Atlanta,Associate,Self-employed,"$80,000 (Seasonal)",Poor,590
+835,Unknown Unknown,35,,Atlanta,Master's,Student (Full-time),$0 ,Excellent,None
+836,BRIGGS JOSHUA,18,,Atlanta,PhD,Employed,"$90,000 ",Good,800
+837,PEARSON DARRELL JR.,24,,Atlanta,Associate,Unemployed,$0 ,Poor,N/A
+838,PEARSON ANGELA,49,,Atlanta,High School,Employed (Part-time),"$25,000 (Hourly)",Excellent,740
+839,CRAIGWELL STANLEY,61,,Atlanta,Bachelor's,Self-employed,"$70,000 (Seasonal)",Average,670
+840,CAIN MARCUS,22,,Atlanta,,Retired,"$40,000 (Pension)",Good,710
+841,HARRIS TRAVIS,28,,Atlanta,Associate,Gig Worker,"$42,000 (Unstable)",Average,640
+842,HANNA MOMBERA,0,,Atlanta,High School,Employed,"$55,000 ",Excellent,780
+843,TERRELL DEMETRIUS,39,,Atlanta,Bachelor's,Student (Part-time),"$18,000 (Summer Job)",Good,None
+844,THOMAS NIKITA,34,,Atlanta,Master's,Self-employed,"$140,000 ",Excellent,850
+845,WILLIAMS DARRYL JR.,28,,Atlanta,,Unemployed,$0 ,Poor,420
+846,PARKER DUJON,19,,Atlanta,PhD,Employed,"$100,000 ",Average,750
+847,PINKEY CURTIS,36,,Atlanta,Associate,Unemployed,$0 ,Good,N/A
+848,GIBSON QUDRAVIOUS,26,,Atlanta,High School,Gig Worker,"$30,000 (Unstable)",Poor,580
+849,GREGG LAMAR,29,,Atlanta,Bachelor's,Employed (Contract),"$85,000 ",Excellent,720
+850,HARDIMON MATTHEW,19,,Atlanta,Master's,Retired,"$50,000 (Social Security)",Average,700
+851,GRIER WILLIE,Unknown,,Atlanta,PhD,Unemployed,$0 ,Poor,N/A
+852,WALKER TERENCE,26,,Atlanta,Associate,Employed,"$40,000 ",Good,650
+853,FLORES KEVIN,4,,Atlanta,High School,Student (Full-time),$0 ,Excellent,None
+854,WILLIAMS DARRYL,42,,Atlanta,Bachelor's,Self-employed (Business Closed),$0 ,Poor,450
+855,SCOTT KEVIN,26,,Atlanta,,Unemployed,$0 ,Average,400
+856,HOLIDAY MUSTAINU,46,,Atlanta,PhD,Employed,"$110,000 (Commission)",Good,770
+857,WHITAKER KRISTEN,23,,Atlanta,Associate,Unemployed,$0 ,Poor,N/A
+858,SPEAR LARRY,27,,Atlanta,High School,Gig Worker,"$38,000 (Unstable)",Average,610
+859,HINES NALECIA,4,,Atlanta,Bachelor's,Employed (Contract),"$95,000 ",Excellent,790
+860,MAYES WILLIE,48,,Atlanta,Master's,Retired,"$55,000 (Social Security)",Good,730
+861,HOLLIDAY DEXTER,33,,Atlanta,Master's,Student (Full-time),$0 ,Excellent,None
+862,GREEIR SHOMARI,31,,Atlanta,PhD,Employed,"$150,000 (Commission)",Good,820
+863,WARD HAROLD,69,,Atlanta,Associate,Unemployed,$0 ,Poor,N/A
+864,OWENS ALEXIS,29,,Atlanta,High School,Gig Worker,"$22,000 (Unstable)",Average,540
+865,TELIAFERRO QUENTIN,24,,Atlanta,Bachelor's,Self-employed,"$80,000 ",Excellent,760
+866,WALKER ASHLEY,26,,Atlanta,,Unemployed,$0 ,Poor,380 (Typo)
+867,HAMILTON MARIO,24,,Atlanta,Associate,Employed (Part-time),"$12,000 (Hourly)",Average,630
+868,FULL ANTWION,38,,Atlanta,High School,Employed,"$60,000 ",Excellent,800
+869,COX CONSTANCE,53,,Atlanta,Bachelor's,Student (Part-time),"$15,000 (Summer Job)",Good,None
+870,BRITTIAN DAMON,33,,Atlanta,Master's,Self-employed,"$100,000 (Seasonal)",Average,680
+871,ARNOLD KENARD,17,,Atlanta,PhD,Employed,"$150,000 (Outlier)",Excellent,880
+872,EVANS TANISHA,37,,Atlanta,High School (GED),Unemployed,$0 ,Poor,N/A
+873,WALKER RACHEL,17,,Atlanta,Bachelor's,Self-employed,"$80,000 (Unstable)",Average,630
+874,BENNETT FERDERIAN,30,,Atlanta,,Student (Internship),"$20,000 (Stipend)",Good,None
+875,O'NEAL ERIC,56,,Atlanta,Associate,Employed (Part-time),"$30,000 (Hourly)",Excellent,760
+876,TRAYLOR CLEOPHUS,59,,Atlanta,Master's,Unemployed,$0 ,Poor,N/A
+877,MARK ROBERT,61,,Atlanta,PhD,Gig Worker,"$45,000 (Unstable)",Average,590
+878,SMITH SAMARA,35,,Atlanta,High School,Employed,"$60,000 ",Excellent,810
+879,PATRICK NAZIR,4,,Atlanta,Bachelor's,Student (Full-time),$0 ,Good,None
+880,DAS SUHRID,48,,Atlanta,,Self-employed,"$120,000 (Seasonal)",Average,660
+881,MAXEY VENEITRA,15,,Atlanta,Associate,Unemployed,$0 ,Poor,N/A
+882,WALKER EDNA,54,,Atlanta,PhD,Employed,"$130,000 (Commission)",Good,740
+883,SIMMONS MARVIN,51,,Atlanta,Master's,Student (Full-time),$0 ,Excellent,None
+884,PATRICK STEVEN,24,,Atlanta,PhD,Employed,"$90,000 ",Good,800
+885,WATSON RONTAVIOUS,25,,Atlanta,Associate,Unemployed,$0 ,Poor,N/A
+886,MCLENDON GREGORY,27,,Atlanta,High School,Employed (Part-time),"$25,000 (Hourly)",Excellent,740
+887,GLASS ANTONIO,44,,Atlanta,Bachelor's,Self-employed,"$70,000 (Seasonal)",Average,670
+888,TARPLEY ERIC,48,,Atlanta,,Retired,"$40,000 (Pension)",Good,710
+889,ROBINSON KEITH,32,,Atlanta,Associate,Gig Worker,"$42,000 (Unstable)",Average,640
+890,ELLINGTON DONTEZIOUS,28,,Atlanta,High School,Employed,"$55,000 ",Excellent,780
+891,DOWELL ROBERT,53,,Atlanta,Bachelor's,Student (Part-time),"$18,000 (Summer Job)",Good,None
+892,JEFFERSON CURTIS,44,,Atlanta,Master's,Self-employed,"$140,000 ",Excellent,850
+893,WEATHERSPOON CORNELIUS,19,,Atlanta,,Unemployed,$0 ,Poor,420
+894,BLUNT DELANCE,20,,Atlanta,PhD,Employed,"$100,000 ",Average,750
+895,HUGHES WILLIAM,33,,Atlanta,Associate,Unemployed,$0 ,Good,N/A
+896,JOHNSON JOHN,60,,Atlanta,High School,Gig Worker,"$30,000 (Unstable)",Poor,580
+897,STINCHCOMB EUGENE,47,,Atlanta,Bachelor's,Employed (Contract),"$85,000 ",Excellent,720
+898,BRICE TRAVIS,33,,Atlanta,Master's,Retired,"$50,000 (Social Security)",Average,700
+899,RIVERS LARRY,56,,Atlanta,PhD,Unemployed,$0 ,Poor,N/A
+900,COLE FIDEL,27,,Atlanta,Associate,Employed,"$40,000 ",Good,650
+901,MOSS KELVIN,29,,Atlanta,High School,Student (Full-time),$0 ,Excellent,None
+902,WESLEY WHITNEY,27,,Atlanta,Bachelor's,Self-employed (Business Closed),$0 ,Poor,450
+903,DAVIS MARQUE,37,,Atlanta,,Unemployed,$0 ,Average,400
+904,ADAMS DARTERIUS,19,,Atlanta,PhD,Employed,"$110,000 (Commission)",Good,770
+905,SWINT BOBBY,33,,Atlanta,Associate,Unemployed,$0 ,Poor,N/A
+906,MCDANIEL MICHAEL,34,,Atlanta,High School,Gig Worker,"$38,000 (Unstable)",Average,610
+907,POOLE CHARLES,33,,Atlanta,Bachelor's,Employed (Contract),"$95,000 ",Excellent,790
+908,VEREEN ALEXIS,21,,Atlanta,Master's,Retired,"$55,000 (Social Security)",Good,730
+909,COUCH DERRICK,50,,Atlanta,PhD,Employed,"$150,000 (Outlier)",Excellent,880
+910,PERRY DOUGLAS,62,,Atlanta,High School (GED),Unemployed,$0 ,Poor,N/A
+911,HARRIS GREGORY,49,,Atlanta,Bachelor's,Self-employed,"$80,000 (Unstable)",Average,630
+912,CARTER TERESA,30,,Atlanta,,Student (Internship),"$20,000 (Stipend)",Good,None
+913,PARKER ASIEL,21,,Atlanta,Associate,Employed (Part-time),"$30,000 (Hourly)",Excellent,760
+914,ALEXIS JOSHUA,27,,Atlanta,Master's,Unemployed,$0 ,Poor,N/A
+915,STREET KENNETH,57,,Atlanta,PhD,Gig Worker,"$45,000 (Unstable)",Average,590
+916,MCREYNOLDS DAVID,54,,Atlanta,High School,Employed,"$60,000 ",Excellent,810
+917,BAH YOUSSOUF,32,,Atlanta,Bachelor's,Student (Full-time),$0 ,Good,None
+918,WALKER DIJON,19,,Atlanta,,Self-employed,"$120,000 (Seasonal)",Average,660
+919,MARTIN MARKEVIOUS,26,,Atlanta,Associate,Unemployed,$0 ,Poor,N/A
+920,THRASHER VANESSA,53,,Atlanta,PhD,Employed,"$130,000 (Commission)",Good,740
+921,MOLOO MUSHTAQ,46,,Atlanta,Bachelor,Employed,"$80,000 ",Good,720
+922,LUMPKIN AYOKUNLE,23,,Atlanta,Associate,Unemployed,$0 ,Excellent,N/A
+923,BALLARD KENTAVIOUS,30,,Atlanta,PhD,Self-employed,"$120,000 ",Poor,550
+924,ASHLEY JORDAN,21,,Atlanta,High School,Employed,"$45,000 ",Excellent,800
+925,ROBERTS KENNETH,19,,Atlanta,Master's,Retired,"$50,000 ",Average,680
+926,JORDAN CURTIS,18,,Atlanta,,Student,$0 ,Good,N/A
+927,GRIFFIN SHATIKEY,34,,Atlanta,,Unemployed,Missing,Poor,400
+928,GRIFFIN DEMIYA,12,,Atlanta,Associate,Employed,"$65,000 ",,750
+929,LOTT DONALD,52,,Atlanta,High School,Self-employed,"$30,000 ",Excellent,600
+930,JONES ERIC,38,,Atlanta,PhD,Employed,"$100,000 ",Average,790
+931,SISK GRAHAM,23,,Atlanta,PhD,Retired,$0 ,Average,537
+932,BROOKS MORIE,24,,Atlanta,Bachelor's,Unemployed,$0 ,Excellent,None
+933,CAUTHEN RASHEDA,36,,Atlanta,High School,Unemployed,$0 ,Good,457
+934,INZAR ANTWAN,24,,Atlanta,PhD,Unemployed,$0 ,,N/A
+935,BAGLEY CRAIG,57,,Atlanta,Bachelor's,Retired,$0 ,,None
+936,MOORE ANDRE,19,,Atlanta,,Student,$0 ,,N/A
+937,TURNER AYESHA,28,,Atlanta,Master's,Self-employed,"$135,068 ",Average,794
+938,ANANABA NKWACHI,29,,Atlanta,PhD,Employed,"($50,975)",Good,None
+939,WINFREY SALENTO,35,,Atlanta,Master's,Unemployed,$0 ,Good,814
+940,MOTLEY TYTEYANNA,2,,Atlanta,PhD,Self-employed,"($102,073)",Poor,780
+941,PORTER TERRY,39,,Atlanta,High School,Freelance,"$25,000 (Hourly)",Excellent,720
+942,LOWERY LEE,20,,Atlanta,,Student (Part-time),"$15,000 (Summer Job)",Good,None
+943,HARDEN ARTHUR,60,,Atlanta,Master's,Retired (Early),"$35,000 (Pension)",Average,650
+944,BAXTER KATHLEEN,59,,Atlanta,Bachelor's,Self-employed,"$150,000 (Seasonal)",Poor,500
+945,AVIN ANDY,23,,Atlanta,Associate,Unemployed,$0 ,,N/A
+946,JACKSON ANTHONY,25,,Atlanta,PhD,Employed,"$110,000 (Commission)",Good,830
+947,HAYES MIGUEL,25,,Atlanta,Master's,Retired,"$48,000 (Social Security)",Excellent,750
+948,MALLORY MORACE,38,,Atlanta,High School,Employed (Gig Work),"$30,000 (Unstable)",Poor,420
+949,RICE JEROME,25,,Atlanta,Bachelor's,Student (Full-time),$0 ,Excellent,None
+950,GLENN CARLOS,24,,Atlanta,PhD,Self-employed,$0 (Business Closed),Poor,480
+951,MBAYE NDONGO,49,,Atlanta,,Unemployed,$0 ,Excellent,N/A
+952,WEST JOE,30,,Atlanta,High School,Employed,"$40,000 ",Good,720
+953,WATSON JOSHUA,18,,Atlanta,Bachelor's,Student,$0 ,Excellent,None
+954,KEMP JONATHAN,20,,Atlanta,,Self-employed,"$60,000 (Unstable)",Poor,580
+955,BILLINGS JARED,18,,Atlanta,Master's,Unemployed,$0 ,Average,650
+956,EDMONDSON ELIJAH,23,,Atlanta,PhD,Retired,"$75,000 (Pension)",Excellent,810
+957,NEWMAN HARRY,51,,Atlanta,Associate,Employed,"$50,000 ",Good,780
+958,THOMAS WAYNE,57,,Atlanta,High School,Unemployed,$0 ,Poor,N/A
+959,MEDRANO RICKY,27,,Atlanta,Bachelor's,Employed (Part-time),"$20,000 (Hourly)",Excellent,700
+960,JOHNSON ANTON,39,,Atlanta,Master's,Self-employed,"$100,000 (Seasonal)",Average,690
+961,SMITH LORENZO,21,,Atlanta,,Student (Full-time),$0 ,Good,None
+962,MUIRHEAD-SMITH WILTON,17,,Atlanta,PhD,Employed,"$120,000 ",Excellent,830
+963,MCQUEEN-MOULTRIE MELANIE,35,,Atlanta,Associate,Unemployed,$0 ,Poor,550
+964,MADISON LINDA,57,,Atlanta,High School,Gig Worker,"$35,000 (Unstable)",Average,620
+965,SINIS NICOLA,43,,Atlanta,Bachelor's,Employed (Contract),"$80,000 ",Good,750
+966,ROUSSAW EVERETTE,41,,Atlanta,Master's,Retired,"$55,000 (Social Security)",Excellent,790
+967,SHAW MARIO,32,,Atlanta,PhD,Unemployed,$0 ,Poor,N/A
+968,REEVES TAUREAN,29,,Atlanta,Associate,Employed,"$45,000 ",Average,680
+969,GREEN JOE,38,,Atlanta,High School,Student (Part-time),"$15,000 (Summer Job)",Good,None
+970,BARRON HOWELL,39,,Atlanta,Bachelor's,Self-employed,"$110,000 ",Excellent,820
+971,ROSSER DONTACUS,32,,Atlanta,,Unemployed,$0 ,Poor,480
+972,RUSHIN JIMMY,30,,Atlanta,PhD,Employed,"$130,000 (Commission)",Average,710
+973,DUNLAP GARRETT,24,,Atlanta,Associate,Unemployed,$0 ,Good,N/A
+974,JARRARD LINDA,60,,Atlanta,High School,Gig Worker,"$28,000 (Unstable)",Poor,520
+975,TUCKER SHONNESHIA,20,,Atlanta,Bachelor's,Employed (Contract),"$90,000 ",Excellent,770
+976,PITTS DERRICK,28,,Atlanta,Master's,Retired,"$60,000 (Social Security)",Average,740
+977,CLARK RONALD,57,,Atlanta,PhD,Unemployed,$0 ,Poor,N/A
+978,JACKSON JERRICK,47,,Atlanta,Associate,Employed,"$50,000 ",Good,690
+979,BENTON WAVA,Unknown,,Atlanta,High School,Student (Full-time),$0 ,Excellent,None
+980,REEVES HENRY,28,,Atlanta,Bachelor's,Self-employed,"$120,000 ",Excellent,840
+981,COTRONA PATRICK,33,,Atlanta,,Unemployed,$0 ,Average,450
+982,BERRY DREXEL,24,,Atlanta,PhD,Employed,"$140,000 (Commission)",Good,730
+983,THOMPSON JOHN,57,,Atlanta,Associate,Unemployed,$0 ,Poor,N/A
+984,CAMPBELL EDWARD,26,,Atlanta,High School,Gig Worker,"$32,000 (Unstable)",Average,600
+985,COHEN AUGUSTA,84,,Atlanta,Bachelor's,Employed (Contract),"$100,000 ",Excellent,790
+986,GIBBS JOE,23,,Atlanta,Master's,Retired,"$65,000 (Social Security)",Good,760
+987,MCCLAIN DEVONTAVIUS,19,,Atlanta,Master's,Student (Full-time),$0 ,Excellent,None
+988,OLIVER MARY,76,,Atlanta,PhD,Employed,"$90,000 ",Good,800
+989,BROWN ASHLEY,35,,Atlanta,Associate,Unemployed,$0 ,Poor,N/A
+990,DOUGLAS JEFFERY,51,,Atlanta,High School,Employed (Part-time),"$25,000 (Hourly)",Excellent,740
+991,MILLER ARTAYVIER,30,,Atlanta,Bachelor's,Self-employed,"$70,000 (Seasonal)",Average,670
+992,BROWN JAYME,23,,Atlanta,,Retired,"$40,000 (Pension)",Good,710
+993,BEVIS KENNETH,58,,Atlanta,Associate,Gig Worker,"$42,000 (Unstable)",Average,640
+994,WILLIAMS MARKEITH,20,,Atlanta,High School,Employed,"$55,000 ",Excellent,780
+995,DUKES AMONDO,18,,Atlanta,Bachelor's,Student (Part-time),"$18,000 (Summer Job)",Good,None
+996,RICHARDSON DAVID,32,,Atlanta,Master's,Self-employed,"$140,000 ",Excellent,850
+997,HOLLIS ANTHONY,29,,Atlanta,,Unemployed,$0 ,Poor,420
+998,HAWTHORNE LORENZO,20,,Atlanta,PhD,Employed,"$100,000 ",Average,750
+999,ADAMS MARIO,44,,Atlanta,Associate,Unemployed,$0 ,Good,N/A
+1000,JACKSON JOSHUA,19,,Atlanta,High School,Gig Worker,"$30,000 (Unstable)",Poor,580
+1001,WILLIAMS RICNICKO,37,,Atlanta,Bachelor's,Employed (Contract),"$85,000 ",Excellent,720
+1002,DAVIS KENNETH,32,,Atlanta,Master's,Retired,"$50,000 (Social Security)",Average,700
+1003,FAIR MYCHAL,23,,Atlanta,PhD,Unemployed,$0 ,Poor,N/A
+1004,SHIVERS XAVIER,21,,Atlanta,Associate,Employed,"$40,000 ",Good,650
+1005,BURKE FREDERICK,25,,Atlanta,High School,Student (Full-time),$0 ,Excellent,None
+1006,YOUNG OLANDO,20,,Atlanta,Bachelor's,Self-employed (Business Closed),$0 ,Poor,450
+1007,SELLERS JESSTIN,1,,Atlanta,,Unemployed,$0 ,Average,400
+1008,CARTER WILLIAM,31,,Atlanta,PhD,Employed,"$110,000 (Commission)",Good,770
+1009,DOBY ASAAD,28,,Atlanta,Associate,Unemployed,$0 ,Poor,N/A
+1010,JONES JOSEPHINE,65,,Atlanta,High School,Gig Worker,"$38,000 (Unstable)",Average,610
+1011,BENNING DERRICK JR.,20,,Atlanta,Bachelor's,Employed (Contract),"$95,000 ",Excellent,790
+1012,FRIERSON JOE,37,,Atlanta,Master's,Retired,"$55,000 (Social Security)",Good,730
+1013,CARR LEON,34,,Atlanta,PhD,Unemployed,$0 ,Excellent (?!),N/A
+1014,BROOKS CHARLESE,34,,Atlanta,Associate,Unemployed,$0 ,Poor,N/A
+1015,MIDDLETON MARQUEZ,18,,Atlanta,Master's,Self-employed,"$120,000 ",Good,810
+1016,HAYES DANTA,32,,Atlanta,,Employed (Part-time),"$15,000 (Hourly)",Excellent,690
+1017,HUFF REGINALD,29,,Atlanta,PhD,Gig Worker,"$50,000 (Unstable)",Average,700
+1018,BURKES TODD,28,,Atlanta,Associate,Self-employed,"$80,000 (Seasonal)",Poor,590
+1019,FARMER MARCUS,49,,Atlanta,Master's,Student (Full-time),$0 ,Excellent,None
+1020,PEEK CHRISTOPHER,32,,Atlanta,PhD,Employed,"$90,000 ",Good,800
+1021,FORD JERROD,22,,Atlanta,Associate,Unemployed,$0 ,Poor,N/A
+1022,GANTT SAMUEL,22,,Atlanta,High School,Employed (Part-time),"$25,000 (Hourly)",Excellent,740
+1023,WANG DAN,54,,Atlanta,Bachelor's,Self-employed,"$70,000 (Seasonal)",Average,670
+1024,TUCKER STANLEY,51,,Atlanta,,Retired,"$40,000 (Pension)",Good,710
+1025,HOLT BRIDGETTE,47,,Atlanta,Associate,Gig Worker,"$42,000 (Unstable)",Average,640
+1026,JACKSON TIMOTHY,37,,Atlanta,High School,Employed,"$55,000 ",Excellent,780
+1027,SAWYER RUBERIA,24,,Atlanta,Bachelor's,Student (Part-time),"$18,000 (Summer Job)",Good,None
+1028,JOHNSON JAMES,56,,Atlanta,Master's,Self-employed,"$140,000 ",Excellent,850
+1029,WALTON KHASEIM,30,,Atlanta,,Unemployed,$0 ,Poor,420
+1030,BROWN CHARNETTA,43,,Atlanta,PhD,Employed,"$100,000 ",Average,750
+1031,TAYLOR-REDDING MARILYN,53,,Atlanta,Associate,Unemployed,$0 ,Good,N/A
+1032,COLZIE RIRECRASA,38,,Atlanta,High School,Gig Worker,"$30,000 (Unstable)",Poor,580
+1033,HAMILTON DEVOY,46,,Atlanta,Bachelor's,Employed (Contract),"$85,000 ",Excellent,720
+1034,CLAY ANTWAN,27,,Atlanta,Master's,Retired,"$50,000 (Social Security)",Average,700
+1035,LEWIS KENDRICK,66,,Atlanta,PhD,Unemployed,$0 ,Poor,N/A
+1036,ARNOLD XAVIER,21,,Atlanta,Associate,Employed,"$40,000 ",Good,650
+1037,BOUCHELAGHEM AMIN,40,,Atlanta,High School,Student (Full-time),$0 ,Excellent,None
+1038,BYRD OTIS,50,,Atlanta,Bachelor's,Self-employed (Business Closed),$0 ,Poor,450
+1039,HOLLAND ANTHONY,42,,Atlanta,,Unemployed,$0 ,Average,400
+1040,JORDAN FIKREE,37,,Atlanta,PhD,Employed,"$110,000 (Commission)",Good,770
+1041,BAILEY NEAL,64,,Atlanta,Associate,Unemployed,$0 ,Poor,N/A
+1042,MENEFEE RANDY,35,,Atlanta,High School,Gig Worker,"$38,000 (Unstable)",Average,610
+1043,FIELDS TERRANCE,26,,Atlanta,Bachelor's,Employed (Contract),"$95,000 ",Excellent,790
+1044,CHERRY RANDY,33,,Atlanta,Master's,Retired,"$55,000 (Social Security)",Good,730
+1045,WALKER RODNEY,21,,Atlanta,Master's,Student (Full-time),$0 ,Excellent,None
+1046,THORNTON KELCEY,37,,Atlanta,PhD,Employed,"$150,000 (Commission)",Good,820
+1047,SHIAVO ALINA,23,,Atlanta,Associate,Unemployed,$0 ,Poor,N/A
+1048,JACKSON JOHNNIE,22,,Atlanta,High School,Gig Worker,"$22,000 (Unstable)",Average,540
+1049,MORRISON QUATAIVOUS,23,,Atlanta,Bachelor's,Self-employed,"$80,000 ",Excellent,760
+1050,SMITH ANDRE,22,,Atlanta,,Unemployed,$0 ,Poor,380 (Typo)
+1051,DIGGS ANTONIO,35,,Atlanta,Associate,Employed (Part-time),"$12,000 (Hourly)",Average,630
+1052,WIGGINS ANTONIYO,35,,Atlanta,High School,Employed,"$60,000 ",Excellent,800
+1053,BOYD TYWANNA,25,,Atlanta,Bachelor's,Student (Part-time),"$15,000 (Summer Job)",Good,None
+1054,HAGOOD NICHOLAS,34,,Atlanta,Master's,Self-employed,"$100,000 (Seasonal)",Average,680
+1055,WRIGHT DEMETRIUS,33,,Atlanta,PhD,Employed,"$150,000 (Outlier)",Excellent,880
+1056,TURNER WILLIE,46,,Atlanta,High School (GED),Unemployed,$0 ,Poor,N/A
+1057,PRICE MARY,76,,Atlanta,Bachelor's,Self-employed,"$80,000 (Unstable)",Average,630
+1058,REAMS CAVARRIS,22,,Atlanta,,Student (Internship),"$20,000 (Stipend)",Good,None
+1059,BELL TRAVIS,24,,Atlanta,Associate,Employed (Part-time),"$30,000 (Hourly)",Excellent,760
+1060,FINCH TOMMY,49,,Atlanta,Master's,Unemployed,$0 ,Poor,N/A
+1061,CASTERMAN TION,25,,Atlanta,PhD,Gig Worker,"$45,000 (Unstable)",Average,590
+1062,PEREZ-MARTINEZ ANGEL,30,,Atlanta,High School,Employed,"$60,000 ",Excellent,810
+1063,HALL DARRELL,31,,Atlanta,Bachelor's,Student (Full-time),$0 ,Good,None
+1064,JACKSON RASHAWN,34,,Atlanta,,Self-employed,"$120,000 (Seasonal)",Average,660
+1065,BELAI SELEMON,27,,Atlanta,Associate,Unemployed,$0 ,Poor,N/A
+1066,LYTLE HUBERT,67,,Atlanta,PhD,Employed,"$130,000 (Commission)",Good,740
+1067,COLEMAN FREDRICK,35,,Atlanta,Master's,Student (Full-time),$0 ,Excellent,None
+1068,JOHNSON CLIFFORD,58,,Atlanta,PhD,Employed,"$90,000 ",Good,800
+1069,BOTTOMS DARIUS,18,,Atlanta,Associate,Unemployed,$0 ,Poor,N/A
+1070,THOMAS STEPHON,18,,Atlanta,High School,Employed (Part-time),"$25,000 (Hourly)",Excellent,740
+1071,EDMONDS FRANCIS,21,,Atlanta,Bachelor's,Self-employed,"$70,000 (Seasonal)",Average,670
+1072,HOLMES MICHAEL,28,,Atlanta,,Retired,"$40,000 (Pension)",Good,710
+1073,HARRIS WILLIAM,66,,Atlanta,Associate,Gig Worker,"$42,000 (Unstable)",Average,640
+1074,FRAZIER PHYLLIS,51,,Atlanta,High School,Employed,"$55,000 ",Excellent,780
+1075,PENNYMAN JAMARIUS,25,,Atlanta,Bachelor's,Student (Part-time),"$18,000 (Summer Job)",Good,None
+1076,WILLIAMS JEFFERY,34,,Atlanta,Master's,Self-employed,"$140,000 ",Excellent,850
+1077,JOHNSON WILLIAM,62,,Atlanta,,Unemployed,$0 ,Poor,420
+1078,WILLIAMS KILON,24,,Atlanta,PhD,Employed,"$100,000 ",Average,750
+1079,GRIER WILLIE,64,,Atlanta,Associate,Unemployed,$0 ,Good,N/A
+1080,HILL ANTHONY,22,,Atlanta,High School,Gig Worker,"$30,000 (Unstable)",Poor,580
+1081,WASHINGTON MONTAVIOUS,18,,Atlanta,Bachelor's,Employed (Contract),"$85,000 ",Excellent,720
+1082,BURNS BRANDON,28,,Atlanta,Master's,Retired,"$50,000 (Social Security)",Average,700
+1083,DICKERSON CLAUDE,29,,Atlanta,PhD,Unemployed,$0 ,Poor,N/A
+1084,DOWELL CORTEZ,24,,Atlanta,Associate,Employed,"$40,000 ",Good,650
+1085,HUTCHINSON JANICE,49,,Atlanta,High School,Student (Full-time),$0 ,Excellent,None
+1086,SMITH DEANDRE,25,,Atlanta,Bachelor's,Self-employed (Business Closed),$0 ,Poor,450
+1087,HEARD WILLIE,68,,Atlanta,,Unemployed,$0 ,Average,400
+1088,KNIGHTON WILLIE,63,,Atlanta,PhD,Employed,"$110,000 (Commission)",Good,770
+1089,DWIVEDI AJIT,23,,Atlanta,Associate,Unemployed,$0 ,Poor,N/A
+1090,BROWN JERONTA,23,,Atlanta,High School,Gig Worker,"$38,000 (Unstable)",Average,610
+1091,GIBSON BRANDON,21,,Atlanta,Bachelor's,Employed (Contract),"$95,000 ",Excellent,790
+1092,SHEETS TABARIS,19,,Atlanta,Master's,Retired,"$55,000 (Social Security)",Good,730
+1093,BROOKS BRIANA,23,,Atlanta,PhD,Employed,"$150,000 (Outlier)",Excellent,880
+1094,ROBINSON AUNDRECO,42,,Atlanta,High School (GED),Unemployed,$0 ,Poor,N/A
+1095,STOKES DONTAVIOUS,23,,Atlanta,Bachelor's,Self-employed,"$80,000 (Unstable)",Average,630
+1096,WARE DEMONTAE,26,,Atlanta,,Student (Internship),"$20,000 (Stipend)",Good,None
+1097,MORRIS GEORGE,54,,Atlanta,Associate,Employed (Part-time),"$30,000 (Hourly)",Excellent,760
+1098,DAVIS SEAN,39,,Atlanta,Master's,Unemployed,$0 ,Poor,N/A
+1099,PHILLIPS CODY,17,,Atlanta,PhD,Gig Worker,"$45,000 (Unstable)",Average,590
+1100,MCGEE ISHMAEL,21,,Atlanta,High School,Employed,"$60,000 ",Excellent,810
+1101,ROGERS DEONTE,26,,Atlanta,Bachelor's,Student (Full-time),$0 ,Good,None
+1102,CLEMENTS ANTONIO,29,,Atlanta,,Self-employed,"$120,000 (Seasonal)",Average,660
+1103,JONES MICHAEL,33,,Atlanta,Associate,Unemployed,$0 ,Poor,N/A
+1104,BROWN JHKYRIE,1,,Atlanta,PhD,Employed,"$130,000 (Commission)",Good,740
+1105,PHILLIPS OBIE,62,,Atlanta,Bachelor,Employed,"$80,000 ",Good,720
+1106,GEE SHINNARA,39,,Atlanta,Associate,Unemployed,$0 ,Excellent,N/A
+1107,PARKS MARCUS,27,,Atlanta,PhD,Self-employed,"$120,000 ",Poor,550
+1108,HUHAMMAD DARIA,45,,Atlanta,High School,Employed,"$45,000 ",Excellent,800
+1109,ROBERTS EUGENE,53,,Atlanta,Master's,Retired,"$50,000 ",Average,680
+1110,MCGINTY DERRICK,37,,Atlanta,,Student,$0 ,Good,N/A
+1111,EDWARDS MICHAEL,30,,Atlanta,,Unemployed,Missing,Poor,400
+1112,CORN KENNETH,32,,Atlanta,Associate,Employed,"$65,000 ",,750
+1113,WOODEN JABROSKY,24,,Atlanta,High School,Self-employed,"$30,000 ",Excellent,600
+1114,HAWES DAMARIS,37,,Atlanta,PhD,Employed,"$100,000 ",Average,790
+1115,GREEN NICHOLAS,24,,Atlanta,PhD,Retired,$0 ,Average,537
+1116,LOWE NATHANIEL,18,,Atlanta,Bachelor's,Unemployed,$0 ,Excellent,None
+1117,GILBERT JOHNNY,28,,Atlanta,High School,Unemployed,$0 ,Good,457
+1118,DAVIS DONTAVIS,24,,Atlanta,PhD,Unemployed,$0 ,,N/A
+1119,DAVIS DEMETRIUS,22,,Atlanta,Bachelor's,Retired,$0 ,,None
+1120,JENKINS DORIAN,42,,Atlanta,,Student,$0 ,,N/A
+1121,SIMMONS DEONTE,23,,Atlanta,Master's,Self-employed,"$135,068 ",Average,794
+1122,MIMS TOMMY,58,,Atlanta,PhD,Employed,"($50,975)",Good,None
+1123,BARKLEY JOSHUA,19,,Atlanta,Master's,Unemployed,$0 ,Good,814
+1124,WHITLOCK RICKY,51,,Atlanta,PhD,Self-employed,"($102,073)",Poor,780
+1125,GAY MARCUS,43,,Atlanta,High School,Freelance,"$25,000 (Hourly)",Excellent,720
+1126,GORDON DARIUS,32,,Atlanta,,Student (Part-time),"$15,000 (Summer Job)",Good,None
+1127,POWELL MICHAEL,36,,Atlanta,Master's,Retired (Early),"$35,000 (Pension)",Average,650
+1128,CAMP HEATHER,34,,Atlanta,Bachelor's,Self-employed,"$150,000 (Seasonal)",Poor,500
+1129,SARTELL NICOLE,31,,Atlanta,Associate,Unemployed,$0 ,,N/A
+1130,LOVE FLORENCE,55,,Atlanta,PhD,Employed,"$110,000 (Commission)",Good,830
+1131,THOMAS DONOVAN,26,,Atlanta,Master's,Retired,"$48,000 (Social Security)",Excellent,750
+1132,ROBERTS NICHOLAS,27,,Atlanta,High School,Employed (Gig Work),"$30,000 (Unstable)",Poor,420
+1133,WALKER DEXTER,39,,Atlanta,Bachelor's,Student (Full-time),$0 ,Excellent,None
+1134,DANIELS COURTNEY,49,,Atlanta,PhD,Self-employed,$0 (Business Closed),Poor,480
+1135,BELLE ASHLEY,22,,Atlanta,,Unemployed,$0 ,Excellent,N/A
+1136,ANDERSON LEWIS,19,,Atlanta,High School,Employed,"$40,000 ",Good,720
+1137,ROBINSON COREY,22,,Atlanta,Bachelor's,Student,$0 ,Excellent,None
+1138,RUIZ ANTHONY,47,,Atlanta,,Self-employed,"$60,000 (Unstable)",Poor,580
+1139,KURTZ ANTAVIUS,29,,Atlanta,Master's,Unemployed,$0 ,Average,650
+1140,COLLINS DEMONTEVIUS,23,,Atlanta,PhD,Retired,"$75,000 (Pension)",Excellent,810
+1141,PEEK MARCUS,35,,Atlanta,Associate,Employed,"$50,000 ",Good,780
+1142,PEEK RAS AOLE,32,,Atlanta,High School,Unemployed,$0 ,Poor,N/A
+1143,WILLIAMS FRANK,25,,Atlanta,Bachelor's,Employed (Part-time),"$20,000 (Hourly)",Excellent,700
+1144,FORD TRACY,36,,Atlanta,Master's,Self-employed,"$100,000 (Seasonal)",Average,690
+1145,BROOKS DERRICK,26,,Atlanta,,Student (Full-time),$0 ,Good,None
+1146,GAY MARTELL,25,,Atlanta,PhD,Employed,"$120,000 ",Excellent,830
+1147,RICHEY JOSHUA,38,,Atlanta,Associate,Unemployed,$0 ,Poor,550
+1148,WRIGHT DEONTAVIOUS,29,,Atlanta,High School,Gig Worker,"$35,000 (Unstable)",Average,620
+1149,HRUSKA JOSEPH,33,,Atlanta,Bachelor's,Employed (Contract),"$80,000 ",Good,750
+1150,KELSEY CHAITANYALILA,32,,Atlanta,Master's,Retired,"$55,000 (Social Security)",Excellent,790
+1151,MINCY GARY,50,,Atlanta,PhD,Unemployed,$0 ,Poor,N/A
+1152,RIVERS TARIQ,21,,Atlanta,Associate,Employed,"$45,000 ",Average,680
+1153,SEYMORE DONTE,27,,Atlanta,High School,Student (Part-time),"$15,000 (Summer Job)",Good,None
+1154,CHATMAN DANTAVIOUS,31,,Atlanta,Bachelor's,Self-employed,"$110,000 ",Excellent,820
+1155,HALL RICKY,37,,Atlanta,,Unemployed,$0 ,Poor,480
+1156,PARHAM LESTER,55,,Atlanta,PhD,Employed,"$130,000 (Commission)",Average,710
+1157,CHAMBERS WOODIE,59,,Atlanta,Associate,Unemployed,$0 ,Good,N/A
+1158,SMARR CAMESSA,20,,Atlanta,High School,Gig Worker,"$28,000 (Unstable)",Poor,520
+1159,ECHOLS CORY,36,,Atlanta,Bachelor's,Employed (Contract),"$90,000 ",Excellent,770
+1160,BASS TYNA,41,,Atlanta,Master's,Retired,"$60,000 (Social Security)",Average,740
+1161,JOHNSON GRADY,42,,Atlanta,PhD,Unemployed,$0 ,Poor,N/A
+1162,ROSEBERY WARREN,25,,Atlanta,Associate,Employed,"$50,000 ",Good,690
+1163,DAVIS QUINTON,23,,Atlanta,High School,Student (Full-time),$0 ,Excellent,None
+1164,HOLLOWAY LASHANTAE,32,,Atlanta,Bachelor's,Self-employed,"$120,000 ",Excellent,840
+1165,PRESTON MICHAEL,49,,Atlanta,,Unemployed,$0 ,Average,450
+1166,HART OLA,69,,Atlanta,PhD,Employed,"$140,000 (Commission)",Good,730
+1167,LAWSON MICHAEL,47,,Atlanta,Associate,Unemployed,$0 ,Poor,N/A
+1168,HAWKINS BARRY,51,,Atlanta,High School,Gig Worker,"$32,000 (Unstable)",Average,600
+1169,JOHNSON EDWARD,40,,Atlanta,Bachelor's,Employed (Contract),"$100,000 ",Excellent,790
+1170,HUTCHINSON MICKOLAS,32,,Atlanta,Master's,Retired,"$65,000 (Social Security)",Good,760
+1171,COSBY MAURICE,25,,Atlanta,Master's,Student (Full-time),$0 ,Excellent,None
+1172,LASSITER MALCOLM,44,,Atlanta,PhD,Employed,"$90,000 ",Good,800
+1173,WICKS CARLOS,17,,Atlanta,Associate,Unemployed,$0 ,Poor,N/A
+1174,HURT LANDON,1,,Atlanta,High School,Employed (Part-time),"$25,000 (Hourly)",Excellent,740
+1175,DESBORDES GRANT,43,,Atlanta,Bachelor's,Self-employed,"$70,000 (Seasonal)",Average,670
+1176,CARTER CLARENCE,26,,Atlanta,,Retired,"$40,000 (Pension)",Good,710
+1177,STEGALL MARTI,33,,Atlanta,Associate,Gig Worker,"$42,000 (Unstable)",Average,640
+1178,MURPHY STEPHEN,23,,Atlanta,High School,Employed,"$55,000 ",Excellent,780
+1179,TURNER MARK,37,,Atlanta,Bachelor's,Student (Part-time),"$18,000 (Summer Job)",Good,None
+1180,THOMAS LASTARZA,23,,Atlanta,Master's,Self-employed,"$140,000 ",Excellent,850
+1181,OGLEBY ASHLEY,16,,Atlanta,,Unemployed,$0 ,Poor,420
+1182,BROWN JARED,23,,Atlanta,PhD,Employed,"$100,000 ",Average,750
+1183,BREWER BRANDON,29,,Atlanta,Associate,Unemployed,$0 ,Good,N/A
+1184,JONES SEADEE,42,,Atlanta,High School,Gig Worker,"$30,000 (Unstable)",Poor,580
+1185,PHILLIPS REGINALD,24,,Atlanta,Bachelor's,Employed (Contract),"$85,000 ",Excellent,720
+1186,SWAIN LLOYD,44,,Atlanta,Master's,Retired,"$50,000 (Social Security)",Average,700
+1187,MARTIN MILDRED,81,,Atlanta,PhD,Unemployed,$0 ,Poor,N/A
+1188,KIRKPATRICK WILLIE,28,,Atlanta,Associate,Employed,"$40,000 ",Good,650
+1189,EMINUE ATING,24,,Atlanta,High School,Student (Full-time),$0 ,Excellent,None
+1190,WOMACK BLAKE,25,,Atlanta,Bachelor's,Self-employed (Business Closed),$0 ,Poor,450
+1191,HEMPHILL DELROY,50,,Atlanta,,Unemployed,$0 ,Average,400
+1192,WARREN LACHELLE,32,,Atlanta,PhD,Employed,"$110,000 (Commission)",Good,770
+1193,MERRILL DEMETRIUS,22,,Atlanta,Associate,Unemployed,$0 ,Poor,N/A
+1194,SIMPSON TY'MIA,2,,Atlanta,High School,Gig Worker,"$38,000 (Unstable)",Average,610
+1195,WILEY MARVIN,33,,Atlanta,Bachelor's,Employed (Contract),"$95,000 ",Excellent,790
+1196,ROSS EDWIN,25,,Atlanta,Master's,Retired,"$55,000 (Social Security)",Good,730
+1197,TAYLOR KYLE,18,,Atlanta,PhD,Unemployed,$0 ,Excellent (?!),N/A
+1198,JACKSON LUCIOUS,25,,Atlanta,Associate,Unemployed,$0 ,Poor,N/A
+1199,CUMMINGS MELVIN,68,,Atlanta,Master's,Self-employed,"$120,000 ",Good,810
+1200,JONES TIARA,25,,Atlanta,,Employed (Part-time),"$15,000 (Hourly)",Excellent,690
+1201,HATCHER KEJUAN,25,,Atlanta,PhD,Gig Worker,"$50,000 (Unstable)",Average,700
+1202,NWANKO EMMANUEL,23,,Atlanta,Associate,Self-employed,"$80,000 (Seasonal)",Poor,590
+1203,HARRIS MARK,42,,Atlanta,Master's,Student (Full-time),$0 ,Excellent,None
+1204,STEPHENS MARQUIS,41,,Atlanta,PhD,Employed,"$90,000 ",Good,800
+1205,CARTER PHILLIP,58,,Atlanta,Associate,Unemployed,$0 ,Poor,N/A
+1206,JOHNSON ANTHONY,34,,Atlanta,High School,Employed (Part-time),"$25,000 (Hourly)",Excellent,740
+1207,KING CHAUNCEY,35,,Atlanta,Bachelor's,Self-employed,"$70,000 (Seasonal)",Average,670
+1208,STAFFORD RODNEY,29,,Atlanta,,Retired,"$40,000 (Pension)",Good,710
+1209,Unknown Unknown,Unknown,,Atlanta,Associate,Gig Worker,"$42,000 (Unstable)",Average,640
+1210,MCBRIDE ANTONIO,20,,Atlanta,High School,Employed,"$55,000 ",Excellent,780
+1211,ADAMS NATHAN,35,,Atlanta,Bachelor's,Student (Part-time),"$18,000 (Summer Job)",Good,None
+1212,HILLIARD JUSTIN,30,,Atlanta,Master's,Self-employed,"$140,000 ",Excellent,850
+1213,BAILEY TIFFANY,24,,Atlanta,,Unemployed,$0 ,Poor,420
+1214,JONES MONTE,1,,Atlanta,PhD,Employed,"$100,000 ",Average,750
+1215,MCCOY GEOFFREY,37,,Atlanta,Associate,Unemployed,$0 ,Good,N/A
+1216,BELL ANTHONY,40,,Atlanta,High School,Gig Worker,"$30,000 (Unstable)",Poor,580
+1217,HOWARD VONDA,56,,Atlanta,Bachelor's,Employed (Contract),"$85,000 ",Excellent,720
+1218,TURNER SEAN,17,,Atlanta,Master's,Retired,"$50,000 (Social Security)",Average,700
+1219,BODDIE HOLLIS,55,,Atlanta,PhD,Unemployed,$0 ,Poor,N/A
+1220,WATERS QUINTAVIOUS,24,,Atlanta,Associate,Employed,"$40,000 ",Good,650
+1221,SAPP WAYNE,47,,Atlanta,High School,Student (Full-time),$0 ,Excellent,None
+1222,COOK DE'JUAN,28,,Atlanta,Bachelor's,Self-employed (Business Closed),$0 ,Poor,450
+1223,WALLACE ELIJAH,22,,Atlanta,,Unemployed,$0 ,Average,400
+1224,MARSH NATHAN,46,,Atlanta,PhD,Employed,"$110,000 (Commission)",Good,770
+1225,LEWIS PRESTON,15,,Atlanta,Associate,Unemployed,$0 ,Poor,N/A
+1226,JACKSON SEINE,47,,Atlanta,High School,Gig Worker,"$38,000 (Unstable)",Average,610
+1227,HARLEY KEENON,21,,Atlanta,Bachelor's,Employed (Contract),"$95,000 ",Excellent,790
+1228,EVANS DEONTA,19,,Atlanta,Master's,Retired,"$55,000 (Social Security)",Good,730
+1229,CARTER MURVER,64,,Atlanta,Master's,Student (Full-time),$0 ,Excellent,None
+1230,BARBARY DEANGELO,36,,Atlanta,PhD,Employed,"$150,000 (Commission)",Good,820
+1231,MORRIS DEBRA,32,,Atlanta,Associate,Unemployed,$0 ,Poor,N/A
+1232,DIXON HENRY,67,,Atlanta,High School,Gig Worker,"$22,000 (Unstable)",Average,540
+1233,CHALMERS ANTHONY,27,,Atlanta,Bachelor's,Self-employed,"$80,000 ",Excellent,760
+1234,ROBINSON MICHAEL,21,,Atlanta,,Unemployed,$0 ,Poor,380 (Typo)
+1235,MILLER JEREMY,23,,Atlanta,Associate,Employed (Part-time),"$12,000 (Hourly)",Average,630
+1236,MATESSO MAMADOU,55,,Atlanta,High School,Employed,"$60,000 ",Excellent,800
+1237,COOPER LARRY,33,,Atlanta,Bachelor's,Student (Part-time),"$15,000 (Summer Job)",Good,None
+1238,DANIELS GERALD,24,,Atlanta,Master's,Self-employed,"$100,000 (Seasonal)",Average,680
+1239,KELLY JONTUE,37,,Atlanta,PhD,Employed,"$150,000 (Outlier)",Excellent,880
+1240,NUNN TIMOTHY,40,,Atlanta,High School (GED),Unemployed,$0 ,Poor,N/A
+1241,CURTIS SAMUEL,26,,Atlanta,Bachelor's,Self-employed,"$80,000 (Unstable)",Average,630
+1242,SAFFO TONY,46,,Atlanta,,Student (Internship),"$20,000 (Stipend)",Good,None
+1243,MATTHEWS XAVIER,18,,Atlanta,Associate,Employed (Part-time),"$30,000 (Hourly)",Excellent,760
+1244,SEALS DERRICK,48,,Atlanta,Master's,Unemployed,$0 ,Poor,N/A
+1245,MANASSA EARL,22,,Atlanta,PhD,Gig Worker,"$45,000 (Unstable)",Average,590
+1246,MAGOS ISRAEL,34,,Atlanta,High School,Employed,"$60,000 ",Excellent,810
+1247,BLACKWELL WILLIAM,50,,Atlanta,Bachelor's,Student (Full-time),$0 ,Good,None
+1248,ALLISON MELVIN,50,,Atlanta,,Self-employed,"$120,000 (Seasonal)",Average,660
+1249,PITTMAN DUNTAVIUS,21,,Atlanta,Associate,Unemployed,$0 ,Poor,N/A
+1250,AMIS DARRIN,46,,Atlanta,PhD,Employed,"$130,000 (Commission)",Good,740
+1251,SIMMONS CARLOS,42,,Atlanta,Master's,Student (Full-time),$0 ,Excellent,None
+1252,SIMMONS JAMES,19,,Atlanta,PhD,Employed,"$90,000 ",Good,800
+1253,SIMMS BARNEY,70,,Atlanta,Associate,Unemployed,$0 ,Poor,N/A
+1254,GRANT DAVON,18,,Atlanta,High School,Employed (Part-time),"$25,000 (Hourly)",Excellent,740
+1255,BYNUM RICO,46,,Atlanta,Bachelor's,Self-employed,"$70,000 (Seasonal)",Average,670
+1256,COICOU REGINALD,24,,Atlanta,,Retired,"$40,000 (Pension)",Good,710
+1257,BLAKE JEROME,28,,Atlanta,Associate,Gig Worker,"$42,000 (Unstable)",Average,640
+1258,JACKSON TRACEY,44,,Atlanta,High School,Employed,"$55,000 ",Excellent,780
+1259,FULTON JEREMY,24,,Atlanta,Bachelor's,Student (Part-time),"$18,000 (Summer Job)",Good,None
+1260,MOORE DARIUS,40,,Atlanta,Master's,Self-employed,"$140,000 ",Excellent,850
+1261,LADSON ANTONIO,29,,Atlanta,,Unemployed,$0 ,Poor,420
+1262,STOKES SALLIE,89,,Atlanta,PhD,Employed,"$100,000 ",Average,750
+1263,BELL USEF,35,,Atlanta,Associate,Unemployed,$0 ,Good,N/A
+1264,HORTON ROGER,56,,Atlanta,High School,Gig Worker,"$30,000 (Unstable)",Poor,580
+1265,SHIEL BRIDGET,19,,Atlanta,Bachelor's,Employed (Contract),"$85,000 ",Excellent,720
+1266,ZOLFAGHARI SHAHRIAR,34,,Atlanta,Master's,Retired,"$50,000 (Social Security)",Average,700
+1267,BURNSTINE KAISHAUN,17,,Atlanta,PhD,Unemployed,$0 ,Poor,N/A
+1268,CANADY EDDIE,44,,Atlanta,Associate,Employed,"$40,000 ",Good,650
+1269,ROBINSON TAVARES,40,,Atlanta,High School,Student (Full-time),$0 ,Excellent,None
+1270,SUTTON DANTE,37,,Atlanta,Bachelor's,Self-employed (Business Closed),$0 ,Poor,450
+1271,HIGHTOWER TAVARUS,24,,Atlanta,,Unemployed,$0 ,Average,400
+1272,BLUE CONAN,37,,Atlanta,PhD,Employed,"$110,000 (Commission)",Good,770
+1273,THIRKIELD HOMER,20,,Atlanta,Associate,Unemployed,$0 ,Poor,N/A
+1274,BENTON RODNEY,34,,Atlanta,High School,Gig Worker,"$38,000 (Unstable)",Average,610
+1275,GIBSON DARRYL,32,,Atlanta,Bachelor's,Employed (Contract),"$95,000 ",Excellent,790
+1276,SHARRIEFF LARLETHEA,53,,Atlanta,Master's,Retired,"$55,000 (Social Security)",Good,730
+1277,JACKSON CURTIS,53,,Atlanta,PhD,Employed,"$150,000 (Outlier)",Excellent,880
+1278,SCOTT STANLEY,59,,Atlanta,High School (GED),Unemployed,$0 ,Poor,N/A
+1279,ANDREWS ALVIN,21,,Atlanta,Bachelor's,Self-employed,"$80,000 (Unstable)",Average,630
+1280,WINGFIELD FERNANDO,43,,Atlanta,,Student (Internship),"$20,000 (Stipend)",Good,None
+1281,MUCKLE GREGORY,66,,Atlanta,Associate,Employed (Part-time),"$30,000 (Hourly)",Excellent,760
+1282,BROWN JOKISHA,35,,Atlanta,Master's,Unemployed,$0 ,Poor,N/A
+1283,SANDERS VINCENT,40,,Atlanta,PhD,Gig Worker,"$45,000 (Unstable)",Average,590
+1284,CHURCHILL ANDREW,28,,Atlanta,High School,Employed,"$60,000 ",Excellent,810
+1285,WILLIAMS QUINTIN,18,,Atlanta,Bachelor's,Student (Full-time),$0 ,Good,None
+1286,CRUMBLEY ANDRICOUS,35,,Atlanta,,Self-employed,"$120,000 (Seasonal)",Average,660
+1287,BROCK TEVORIS,25,,Atlanta,Associate,Unemployed,$0 ,Poor,N/A
+1288,UNK TAYLOR,25,,Atlanta,PhD,Employed,"$130,000 (Commission)",Good,740
+1289,ARMOUR GLORIA,59,,Atlanta,Bachelor,Employed,"$80,000 ",Good,720
+1290,MCKENNIE HOLLIS,67,,Atlanta,Associate,Unemployed,$0 ,Excellent,N/A
+1291,LUMPKIN NORRIS,55,,Atlanta,PhD,Self-employed,"$120,000 ",Poor,550
+1292,EDWARDS REGINALD,26,,Atlanta,High School,Employed,"$45,000 ",Excellent,800
+1293,SCOTT DYLLON,18,,Atlanta,Master's,Retired,"$50,000 ",Average,680
+1294,HURST KENNETH,32,,Atlanta,,Student,$0 ,Good,N/A
+1295,SMITH SHANNA,24,,Atlanta,,Unemployed,Missing,Poor,400
+1296,DICKERSON DEONDRE,20,,Atlanta,Associate,Employed,"$65,000 ",,750
+1297,PARKS KASHARA,16,,Atlanta,High School,Self-employed,"$30,000 ",Excellent,600
+1298,GASTON SETH,22,,Atlanta,PhD,Employed,"$100,000 ",Average,790
+1299,WILLIAMS DAVID,35,,Atlanta,PhD,Retired,$0 ,Average,537
+1300,FUQUA MICHAEL,18,,Atlanta,Bachelor's,Unemployed,$0 ,Excellent,None
+1301,CURTLEY ARTHUR,49,,Atlanta,High School,Unemployed,$0 ,Good,457
+1302,GARRETT DOMICA,29,,Atlanta,PhD,Unemployed,$0 ,,N/A
+1303,THOMAS LAMARR,28,,Atlanta,Bachelor's,Retired,$0 ,,None
+1304,PAIGE TERRANCE,25,,Atlanta,,Student,$0 ,,N/A
+1305,SMITH RANDY,58,,Atlanta,Master's,Self-employed,"$135,068 ",Average,794
+1306,OLLER MORGAN,26,,Atlanta,PhD,Employed,"($50,975)",Good,None
+1307,DIXON ANTHONY,50,,Atlanta,Master's,Unemployed,$0 ,Good,814
+1308,HORTON HENRY,28,,Atlanta,PhD,Self-employed,"($102,073)",Poor,780
+1309,JOHNSON KENNEDY,1,,Atlanta,High School,Freelance,"$25,000 (Hourly)",Excellent,720
+1310,HAWKINS LASHAWN,34,,Atlanta,,Student (Part-time),"$15,000 (Summer Job)",Good,None
+1311,RESPRESS WILLIAM,36,,Atlanta,Master's,Retired (Early),"$35,000 (Pension)",Average,650
+1312,CAMPBELL BRIAN,43,,Atlanta,Bachelor's,Self-employed,"$150,000 (Seasonal)",Poor,500
+1313,HEFFLIN TYCHIKA,34,,Atlanta,Associate,Unemployed,$0 ,,N/A
+1314,WILLIAMS EDDIE,45,,Atlanta,PhD,Employed,"$110,000 (Commission)",Good,830
+1315,THOMPSON BENJAMIN,28,,Atlanta,Master's,Retired,"$48,000 (Social Security)",Excellent,750
+1316,NEWTON JONATHAN,30,,Atlanta,High School,Employed (Gig Work),"$30,000 (Unstable)",Poor,420
+1317,THOMAS REGINALD,51,,Atlanta,Bachelor's,Student (Full-time),$0 ,Excellent,None
+1318,BROOKS OCTAVIUS,43,,Atlanta,PhD,Self-employed,$0 (Business Closed),Poor,480
+1319,JACKSON DEMANDRIL,22,,Atlanta,,Unemployed,$0 ,Excellent,N/A
+1320,COSBY CARL,28,,Atlanta,High School,Employed,"$40,000 ",Good,720
+1321,JACKSON DAVID,22,,Atlanta,Bachelor's,Student,$0 ,Excellent,None
+1322,DAVENPORT RODNEY,60,,Atlanta,,Self-employed,"$60,000 (Unstable)",Poor,580
+1323,BROOKS ANTHONY,50,,Atlanta,Master's,Unemployed,$0 ,Average,650
+1324,MORMON JEROME,32,,Atlanta,PhD,Retired,"$75,000 (Pension)",Excellent,810
+1325,KING YAZID,40,,Atlanta,Associate,Employed,"$50,000 ",Good,780
+1326,RAMSBY JARON,34,,Atlanta,High School,Unemployed,$0 ,Poor,N/A
+1327,STEVENSON JAYQUAN,15,,Atlanta,Bachelor's,Employed (Part-time),"$20,000 (Hourly)",Excellent,700
+1328,SLATON DAVIS,62,,Atlanta,Master's,Self-employed,"$100,000 (Seasonal)",Average,690
+1329,MONTGOMERY MARQUEZ,15,,Atlanta,,Student (Full-time),$0 ,Good,None
+1330,HOOD DAVID,40,,Atlanta,PhD,Employed,"$120,000 ",Excellent,830
+1331,MILLER NICHOLAS,16,,Atlanta,Associate,Unemployed,$0 ,Poor,550
+1332,SHERROD JOSHUA,23,,Atlanta,High School,Gig Worker,"$35,000 (Unstable)",Average,620
+1333,FREEMAN ANTHONY,26,,Atlanta,Bachelor's,Employed (Contract),"$80,000 ",Good,750
+1334,WEAVER CEDRIC,33,,Atlanta,Master's,Retired,"$55,000 (Social Security)",Excellent,790
+1335,HULL SCOTT,37,,Atlanta,PhD,Unemployed,$0 ,Poor,N/A
+1336,MCTURE JULIA,47,,Atlanta,Associate,Employed,"$45,000 ",Average,680
+1337,MANICK DIMITRI,39,,Atlanta,High School,Student (Part-time),"$15,000 (Summer Job)",Good,None
+1338,PETERSON ARAMIS,28,,Atlanta,Bachelor's,Self-employed,"$110,000 ",Excellent,820
+1339,BROWNLEE KIWANIS,63,,Atlanta,,Unemployed,$0 ,Poor,480
+1340,MOORE MISHA,26,,Atlanta,PhD,Employed,"$130,000 (Commission)",Average,710
+1341,TURNER RODREGAL,35,,Atlanta,Associate,Unemployed,$0 ,Good,N/A
+1342,VARGAS HAMITER,46,,Atlanta,High School,Gig Worker,"$28,000 (Unstable)",Poor,520
+1343,PITS LARRY,55,,Atlanta,Bachelor's,Employed (Contract),"$90,000 ",Excellent,770
+1344,WILLIAMS MANTRZES,23,,Atlanta,Master's,Retired,"$60,000 (Social Security)",Average,740
+1345,JOHNSON AHMAD,27,,Atlanta,PhD,Unemployed,$0 ,Poor,N/A
+1346,BURKE RICHIE,28,,Atlanta,Associate,Employed,"$50,000 ",Good,690
+1347,ROBERTS CORY,22,,Atlanta,High School,Student (Full-time),$0 ,Excellent,None
+1348,TINCH KEOSHA,16,,Atlanta,Bachelor's,Self-employed,"$120,000 ",Excellent,840
+1349,SPRUILL DALLAS,22,,Atlanta,,Unemployed,$0 ,Average,450
+1350,ROOKS MODOTHA,83,,Atlanta,PhD,Employed,"$140,000 (Commission)",Good,730
+1351,JONES GREGORY,30,,Atlanta,Associate,Unemployed,$0 ,Poor,N/A
+1352,NELSON LEON,17,,Baltimore,High School,Gig Worker,"$32,000 (Unstable)",Average,600
+1353,GOLF EDDIE,26,,Baltimore,Bachelor's,Employed (Contract),"$100,000 ",Excellent,790
+1354,MACKENNEY THOMAS JOSEPH,21,,Baltimore,Master's,Retired,"$65,000 (Social Security)",Good,760
+1355,CANUPP EDWARD LEE,61,,Baltimore,Master's,Student (Full-time),$0 ,Excellent,None
+1356,CUNNINGHAN MICHAEL,46,,Baltimore,PhD,Employed,"$90,000 ",Good,800
+1357,ALSTON RAY WILLIAM,27,,Baltimore,Associate,Unemployed,$0 ,Poor,N/A
+1358,HENDERSON YULE ANTONIO,21,,Baltimore,High School,Employed (Part-time),"$25,000 (Hourly)",Excellent,740
+1359,MCDOWELL MARCU,16,,Baltimore,Bachelor's,Self-employed,"$70,000 (Seasonal)",Average,670
+1360,GARDNER RODNEY THOMAS,21,,Balti,,Retired,"$40,000 (Pension)",Good,710
+1361,BURNETTE NELSENE,44,,Balti,Associate,Gig Worker,"$42,000 (Unstable)",Average,640
+1362,CHESLEY TROY LAMONT,34,,Balti,High School,Employed,"$55,000 ",Excellent,780
+1363,ROCHESTER GREGORY,25,,Balti,Bachelor's,Student (Part-time),"$18,000 (Summer Job)",Good,None
+1364,STEFANSKI MELISSA,23,,Balti,Master's,Self-employed,"$140,000 ",Excellent,850
+1365,CURBEAM ANTWAINE,30,,Balti,,Unemployed,$0 ,Poor,420
+1366,DAVIS WILLIAM,26,,Balti,PhD,Employed,"$100,000 ",Average,750
+1367,CRANE RICHARD,36,,Balti,Associate,Unemployed,$0 ,Good,N/A
+1368,WATSON DANTE JAMAL,21,,Balti,High School,Gig Worker,"$30,000 (Unstable)",Poor,580
+1369,MADDEN BONITA,27,,Balti,Bachelor's,Employed (Contract),"$85,000 ",Excellent,720
+1370,WALKER MILAN ANDREW,30,,Balti,Master's,Retired,"$50,000 (Social Security)",Average,700
+1371,JONES ANTON JR.,19,,Baltimore,PhD,Unemployed,$0 ,Poor,N/A
+1372,THOMAS DAVID ISAIAH,31,,Baltimore,Associate,Employed,"$40,000 ",Good,650
+1373,LEWIS RONALD JOSEPH,34,,Baltimore,High School,Student (Full-time),$0 ,Excellent,None
+1374,FLOYD TIO,24,,Baltimore,Bachelor's,Self-employed (Business Closed),$0 ,Poor,450
+1375,FORD JERMALL KEITH,31,,Baltimore,,Unemployed,$0 ,Average,400
+1376,DREDDEN VERNON ORELL,33,,Baltimore,PhD,Employed,"$110,000 (Commission)",Good,770
+1377,FOWLIN KEVIN ANTHONY,24,,Baltimore,Associate,Unemployed,$0 ,Poor,N/A
+1378,MESA SINTIA,25,,Baltimore,High School,Gig Worker,"$38,000 (Unstable)",Average,610
+1379,STEVENS STEPHANIE LYNN,22,,Baltimore,Bachelor's,Employed (Contract),"$95,000 ",Excellent,790
+1380,HOLLIMAN RYAN LAMAR,23,,Baltimore,Master's,Retired,"$55,000 (Social Security)",Good,730
+1381,TUCKER DESMOND GAYLORD,52,,Baltimore,PhD,Unemployed,$0 ,Excellent (?!),N/A
+1382,GAITHER DARNELL GERALD,34,,Baltimore,Associate,Unemployed,$0 ,Poor,N/A
+1383,EVANS DWIGHT,32,,Baltimore,Master's,Self-employed,"$120,000 ",Good,810
+1384,KAMARA ALUSINE,26,,Baltimore,,Employed (Part-time),"$15,000 (Hourly)",Excellent,690
+1385,ROBINSON HAROLD,39,,Baltimore,PhD,Gig Worker,"$50,000 (Unstable)",Average,700
+1386,BASKERVILLE GEORGE,28,,Baltimore,Associate,Self-employed,"$80,000 (Seasonal)",Poor,590
+1387,FRASIER DAVID,29,,Baltimore,Master's,Student (Full-time),$0 ,Excellent,None
+1388,CAIN DARNELL CORNELIUS,37,,Baltimore,PhD,Employed,"$90,000 ",Good,800
+1389,LESSANE BRIAN,19,,Baltimore,Associate,Unemployed,$0 ,Poor,N/A
+1390,PACE CHARLES MARCUS,22,,Baltimore,High School,Employed (Part-time),"$25,000 (Hourly)",Excellent,740
+1391,JONES ANDRE STEPHEN,27,,Baltimore,Bachelor's,Self-employed,"$70,000 (Seasonal)",Average,670
+1392,SAVAGE DANIEL,32,,Baltimore,,Retired,"$40,000 (Pension)",Good,710
+1393,HARRIS DANIEL,18,,Baltimore,Associate,Gig Worker,"$42,000 (Unstable)",Average,640
+1394,DUCK WILLIAM ROSCOE,21,,Baltimore,High School,Employed,"$55,000 ",Excellent,780
+1395,CARTER VERNON LAMONT,25,,Baltimore,Bachelor's,Student (Part-time),"$18,000 (Summer Job)",Good,None
+1396,FENNER VIC GIGIO ROY,17,,Baltimore,Master's,Self-employed,"$140,000 ",Excellent,850
+1397,TERRY THOMAS ALEXANDER,19,,Baltimore,,Unemployed,$0 ,Poor,420
+1398,BROWN ANTHONY MAURICE,20,,Baltimore,PhD,Employed,"$100,000 ",Average,750
+1399,WOODS MICHAEL ANTHONY,28,,Baltimore,Associate,Unemployed,$0 ,Good,N/A
+1400,STUCKEY RICHARD,17,,Baltimore,High School,Gig Worker,"$30,000 (Unstable)",Poor,580
+1401,BRYAN ANTHONY,37,,Baltimore,Bachelor's,Employed (Contract),"$85,000 ",Excellent,720
+1402,COATES ALLAN,36,,Baltimore,Master's,Retired,"$50,000 (Social Security)",Average,700
+1403,SMITH DAMON,40,,Baltimore,PhD,Unemployed,$0 ,Poor,N/A
+1404,ROBINSON MARK ANTHONY,48,,Baltimore,Associate,Employed,"$40,000 ",Good,650
+1405,JACKSON TYRONE AARON JR.,19,,Baltimore,High School,Student (Full-time),$0 ,Excellent,None
+1406,WASHINGTON STEVEN,17,,Baltimore,Bachelor's,Self-employed (Business Closed),$0 ,Poor,450
+1407,CLARKE CHRISTOPHER CLAUDE,18,,Baltimore,,Unemployed,$0 ,Average,400
+1408,ASKINS ANTWAN,27,,Baltimore,PhD,Employed,"$110,000 (Commission)",Good,770
+1409,STUCKEY MICHAEL,49,,Baltimore,Associate,Unemployed,$0 ,Poor,N/A
+1410,ERDMAN CHARLES RUSSELL,65,,Baltimore,High School,Gig Worker,"$38,000 (Unstable)",Average,610
+1411,MATHEWS EDWIN,30,,Baltimore,Bachelor's,Employed (Contract),"$95,000 ",Excellent,790
+1412,DEWITT RODNEY,21,,Baltimore,Master's,Retired,"$55,000 (Social Security)",Good,730
+1413,PAIGE RICARDO ARTHUR,54,,Baltimore,Master's,Student (Full-time),$0 ,Excellent,None
+1414,HARGROVE CHARLES III,19,,Baltimore,PhD,Employed,"$150,000 (Commission)",Good,820
+1415,WEAVER SHAWN LAMONT,17,,Baltimore,Associate,Unemployed,$0 ,Poor,N/A
+1416,PARKER THERESA,39,,Baltimore,High School,Gig Worker,"$22,000 (Unstable)",Average,540
+1417,MOSES ARTESHA MICHELL,18,,Baltimore,Bachelor's,Self-employed,"$80,000 ",Excellent,760
+1418,HARMON RONALD,16,,Baltimore,,Unemployed,$0 ,Poor,380 (Typo)
+1419,JOHNS DAVID XAVIER,23,,Baltimore,Associate,Employed (Part-time),"$12,000 (Hourly)",Average,630
+1420,DERRIEN PELVIN DENNIS,23,,Baltimore,High School,Employed,"$60,000 ",Excellent,800
+1421,GONZALEZ ESTEFANY,16,,Baltimore,Bachelor's,Student (Part-time),"$15,000 (Summer Job)",Good,None
+1422,MCBRIDE ANDRE,21,,Baltimore,Master's,Self-employed,"$100,000 (Seasonal)",Average,680
+1423,SMITH DARRELL MAURICE,21,,Baltimore,PhD,Employed,"$150,000 (Outlier)",Excellent,880
+1424,ZURAWASKI ERIC JOHN,39,,Baltimore,High School (GED),Unemployed,$0 ,Poor,N/A
+1425,DAUGHTRY JOHN,25,,Baltimore,Bachelor's,Self-employed,"$80,000 (Unstable)",Average,630
+1426,CAMPBELL TAVON,20,,Baltimore,,Student (Internship),"$20,000 (Stipend)",Good,None
+1427,FLANAGAN BRENT DEON,16,,Baltimore,Associate,Employed (Part-time),"$30,000 (Hourly)",Excellent,760
+1428,JAMES JONNIE ANTHONY,25,,Baltimore,Master's,Unemployed,$0 ,Poor,N/A
+1429,RANDALL KEVIN,45,,Baltimore,PhD,Gig Worker,"$45,000 (Unstable)",Average,590
+1430,WAYMAN CHRISTOPHER,23,,Baltimore,High School,Employed,"$60,000 ",Excellent,810
+1431,JOHNSON VAN MAURICE,29,,Baltimore,Bachelor's,Student (Full-time),$0 ,Good,None
+1432,DUBOSE DAMON,23,,Baltimore,,Self-employed,"$120,000 (Seasonal)",Average,660
+1433,BUCHANAN ERNEST JOHN,18,,Baltimore,Associate,Unemployed,$0 ,Poor,N/A
+1434,SMITH DEWITT,25,,Baltimore,PhD,Employed,"$130,000 (Commission)",Good,740
+1435,DANIELS RONALD DEVON,35,,Baltimore,Master's,Student (Full-time),$0 ,Excellent,None
+1436,PLATEO LONNIE TOMON,36,,Baltimore,PhD,Employed,"$90,000 ",Good,800
+1437,WALKER AZERWOINE DAOGLE,30,,Baltimore,Associate,Unemployed,$0 ,Poor,N/A
+1438,SANDERS LERROY,22,,Baltimore,High School,Employed (Part-time),"$25,000 (Hourly)",Excellent,740
+1439,WHITE DESHAUM,31,,Baltimore,Bachelor's,Self-employed,"$70,000 (Seasonal)",Average,670
+1440,KNOX JAMAL,16,,Baltimore,,Retired,"$40,000 (Pension)",Good,710
+1441,QUEEN ERIC,24,,Baltimore,Associate,Gig Worker,"$42,000 (Unstable)",Average,640
+1442,BROCKINGTON LARRY,31,,Baltimore,High School,Employed,"$55,000 ",Excellent,780
+1443,HARMON DERIUS COURTNEY,18,,Baltimore,Bachelor's,Student (Part-time),"$18,000 (Summer Job)",Good,None
+1444,DAVIS MATHEW,23,,Baltimore,Master's,Self-employed,"$140,000 ",Excellent,850
+1445,BEASLEY ADRIAN DANIEL,23,,Baltimore,,Unemployed,$0 ,Poor,420
+1446,BOTTOMS ROCKY LAIN JR.,24,,Baltimore,PhD,Employed,"$100,000 ",Average,750
+1447,MOUZON THOMAS STEVESON JR.,23,,Baltimore,Associate,Unemployed,$0 ,Good,N/A
+1448,GRAVES JOHN LEE,26,,Baltimore,High School,Gig Worker,"$30,000 (Unstable)",Poor,580
+1449,DAVIS MICHAEL EUGENE,25,,Baltimore,Bachelor's,Employed (Contract),"$85,000 ",Excellent,720
+1450,CURTIS WILLIAM DON,23,,Baltimore,Master's,Retired,"$50,000 (Social Security)",Average,700
+1451,HATCHER DEANDRE JERROD,17,,Baltimore,PhD,Unemployed,$0 ,Poor,N/A
+1452,WILSON GERALD LAMONT,22,,Baltimore,Associate,Employed,"$40,000 ",Good,650
+1453,HAWKINS ANTWOINE DESHAWN,29,,Baltimore,High School,Student (Full-time),$0 ,Excellent,None
+1454,LITTLE TODD,29,,Baltimore,Bachelor's,Self-employed (Business Closed),$0 ,Poor,450
+1455,HICKS NATHANIEL LARRY,30,,Baltimore,,Unemployed,$0 ,Average,400
+1456,SALMOND DEANDRE,19,,Baltimore,PhD,Employed,"$110,000 (Commission)",Good,770
+1457,CORNISH EARL SONNY,21,,Baltimore,Associate,Unemployed,$0 ,Poor,N/A
+1458,PERLIE ROBERT EUGENE,16,,Baltimore,High School,Gig Worker,"$38,000 (Unstable)",Average,610
+1459,PARSON ALVIN,22,,Baltimore,Bachelor's,Employed (Contract),"$95,000 ",Excellent,790
+1460,ROSE ALEXANDER OSBORNE,23,,Baltimore,Master's,Retired,"$55,000 (Social Security)",Good,730
+1461,SMITH ADRIAN KENNARD,19,,Baltimore,PhD,Employed,"$150,000 (Outlier)",Excellent,880
+1462,TAYLOR CURTIS,22,,Baltimore,High School (GED),Unemployed,$0 ,Poor,N/A
+1463,ELMORE JASMAN,18,,Baltimore,Bachelor's,Self-employed,"$80,000 (Unstable)",Average,630
+1464,BROOKS PERRY VANFERGUSON,49,,Baltimore,,Student (Internship),"$20,000 (Stipend)",Good,None
+1465,MAITH RENARD DAVID,52,,Baltimore,Associate,Employed (Part-time),"$30,000 (Hourly)",Excellent,760
+1466,JOHNSON BRIAN,31,,Baltimore,Master's,Unemployed,$0 ,Poor,N/A
+1467,REED AMIN,30,,Baltimore,PhD,Gig Worker,"$45,000 (Unstable)",Average,590
+1468,BISHOP DAVID PERCELL,32,,Baltimore,High School,Employed,"$60,000 ",Excellent,810
+1469,WILLIAMS DAVON,19,,Baltimore,Bachelor's,Student (Full-time),$0 ,Good,None
+1470,HENDERSON LARON,27,,Baltimore,,Self-employed,"$120,000 (Seasonal)",Average,660
+1471,PARSON JOURMAN,17,,Baltimore,Associate,Unemployed,$0 ,Poor,N/A
+1472,RATHER NEIL BRAIN,18,,Baltimore,PhD,Employed,"$130,000 (Commission)",Good,740
+1473,DREW JOHN CAMERON,26,,Baltimore,Bachelor,Employed,"$80,000 ",Good,720
+1474,PAYNE CHARLES LAMONT,31,,Baltimore,Associate,Unemployed,$0 ,Excellent,N/A
+1475,WASHINGTON DAVID ELIJAH,24,,Baltimore,PhD,Self-employed,"$120,000 ",Poor,550
+1476,COOPER SHIRLEY,72,,Baltimore,High School,Employed,"$45,000 ",Excellent,800
+1477,ALEXANDER CURTIS FRANCIS,28,,Baltimore,Master's,Retired,"$50,000 ",Average,680
+1478,BONNER TYRONE WILLIE,30,,Baltimore,,Student,$0 ,Good,N/A
+1479,GHULAM MUSTAFA,33,,Baltimore,,Unemployed,Missing,Poor,400
+1480,BURNETTE DEMETRIUS ANDER,31,,Baltimore,Associate,Employed,"$65,000 ",,750
+1481,HUNTER CRAIG ANTWON,29,,Baltimore,High School,Self-employed,"$30,000 ",Excellent,600
+1482,JORDAN MELVIN,32,,Baltimore,PhD,Employed,"$100,000 ",Average,790
+1483,SIMS MICHAEL LAMORIS,18,,Baltimore,PhD,Retired,$0 ,Average,537
+1484,TAYLOR JUAN DERRICK,44,,Baltimore,Bachelor's,Unemployed,$0 ,Excellent,None
+1485,GRIFFIN BARBARA,18,,Baltimore,High School,Unemployed,$0 ,Good,457
+1486,WASHINGTON CURTIS,17,,Baltimore,PhD,Unemployed,$0 ,,N/A
+1487,CARR STERLING ANGELO JR.,28,,Baltimore,Bachelor's,Retired,$0 ,,None
+1488,GORDAN MAURICE,15,,Baltimore,,Student,$0 ,,N/A
+1489,WILLIAMS TYREE LAMAR,22,,Baltimore,Master's,Self-employed,"$135,068 ",Average,794
+1490,JONES RICHARD LEONARD,36,,Baltimore,PhD,Employed,"($50,975)",Good,None
+1491,HARRIS ALVIS,40,,Baltimore,Master's,Unemployed,$0 ,Good,814
+1492,GRIMES MARCARIAN,23,,Baltimore,PhD,Self-employed,"($102,073)",Poor,780
+1493,PETTUS RILEY,43,,Baltimore,High School,Freelance,"$25,000 (Hourly)",Excellent,720
+1494,CARTER DAVID ANTONIO,26,,Baltimore,,Student (Part-time),"$15,000 (Summer Job)",Good,None
+1495,BUNDY RONNIE,21,,Baltimore,Master's,Retired (Early),"$35,000 (Pension)",Average,650
+1496,TYNES TARIK HASSAN,35,,Baltimore,Bachelor's,Self-employed,"$150,000 (Seasonal)",Poor,500
+1497,WILSON GEORGE,24,,Baltimore,Associate,Unemployed,$0 ,,N/A
+1498,CONWAY VOLTAIRE MICHAEL,40,,Baltimore,PhD,Employed,"$110,000 (Commission)",Good,830
+1499,WILLIAMS GEORGE WESLEY,53,,Baltimore,Master's,Retired,"$48,000 (Social Security)",Excellent,750
+1500,LEWIS KYLE,27,,Baltimore,High School,Employed (Gig Work),"$30,000 (Unstable)",Poor,420
+1501,AIREY PHILLIP EDWARD,36,,Baltimore,Bachelor's,Student (Full-time),$0 ,Excellent,None
+1502,COOK JEWELS TREMAN,36,,Baltimore,PhD,Self-employed,$0 (Business Closed),Poor,480
+1503,JOHNSON JOSEPH MILTON,28,,Baltimore,,Unemployed,$0 ,Excellent,N/A
+1504,CORNISH PAUL PHILLIP,28,,Baltimore,High School,Employed,"$40,000 ",Good,720
+1505,TURNER DAVON LEON,21,,Baltimore,Bachelor's,Student,$0 ,Excellent,None
+1506,SMITH GERALD,25,,Baltimore,,Self-employed,"$60,000 (Unstable)",Poor,580
+1507,BARRETT CHRISTOPHER MORRIS,52,,Baltimore,Master's,Unemployed,$0 ,Average,650
+1508,PRICE NATHANIEL,30,,Baltimore,PhD,Retired,"$75,000 (Pension)",Excellent,810
+1509,BURTON ALLEN,39,,Baltimore,Associate,Employed,"$50,000 ",Good,780
+1510,TRACEY ANTONIO DEMONT,31,,Baltimore,High School,Unemployed,$0 ,Poor,N/A
+1511,JOHNSON PHYLLIS CHARLENE,40,,Baltimore,Bachelor's,Employed (Part-time),"$20,000 (Hourly)",Excellent,700
+1512,JOHNSON GEORGE THOMAS,25,,Baltimore,Master's,Self-employed,"$100,000 (Seasonal)",Average,690
+1513,MAURO MARIO JOSEPH,53,,Baltimore,,Student (Full-time),$0 ,Good,None
+1514,RICHARDSON CHRISTINE,15,,Baltimore,PhD,Employed,"$120,000 ",Excellent,830
+1515,JOHNSON CLAYBORN,59,,Baltimore,Associate,Unemployed,$0 ,Poor,550
+1516,JACKSON CYPRIAN LAMAR,29,,Baltimore,High School,Gig Worker,"$35,000 (Unstable)",Average,620
+1517,JOHNSON TIMOTHY,37,,Baltimore,Bachelor's,Employed (Contract),"$80,000 ",Good,750
+1518,BELLOSI ASHLEY MARIE,23,,Baltimore,Master's,Retired,"$55,000 (Social Security)",Excellent,790
+1519,CROSBY JERRY,24,,Baltimore,PhD,Unemployed,$0 ,Poor,N/A
+1520,STRANGE CONRAD,25,,Baltimore,Associate,Employed,"$45,000 ",Average,680
+1521,MCMILLIAN YEMEL,20,,Baltimore,High School,Student (Part-time),"$15,000 (Summer Job)",Good,None
+1522,WHITE MAURICE GILBERT,22,,Baltimore,Bachelor's,Self-employed,"$110,000 ",Excellent,820
+1523,WHITE WAYNE GOLDEN,24,,Baltimore,,Unemployed,$0 ,Poor,480
+1524,WILLIAMS EARL THOMAS,26,,Baltimore,PhD,Employed,"$130,000 (Commission)",Average,710
+1525,COSTLEY PERRY ALAN,18,,Baltimore,Associate,Unemployed,$0 ,Good,N/A
+1526,SANTIAGO DANIEL,29,,Baltimore,High School,Gig Worker,"$28,000 (Unstable)",Poor,520
+1527,BRANDON STEVEN ELRICK SR.,41,,Baltimore,Bachelor's,Employed (Contract),"$90,000 ",Excellent,770
+1528,CHASE DONTE LAMONT,27,,Baltimore,Master's,Retired,"$60,000 (Social Security)",Average,740
+1529,ROBOTHAM CHRISTOPHER DEAN,37,,Baltimore,PhD,Unemployed,$0 ,Poor,N/A
+1530,EPPS SAMUEL,30,,Baltimore,Associate,Employed,"$50,000 ",Good,690
+1531,WEBB CYNTHIA,42,,Baltimore,High School,Student (Full-time),$0 ,Excellent,None
+1532,DOWNING DEMETRIS DONNELL SR.,25,,Baltimore,Bachelor's,Self-employed,"$120,000 ",Excellent,840
+1533,MITCHELL KENNETH STUART,44,,Baltimore,,Unemployed,$0 ,Average,450
+1534,BROWN JORDAN TAYLOR,21,,Baltimore,PhD,Employed,"$140,000 (Commission)",Good,730
+1535,MIAES EGHOSA,20,,Baltimore,Associate,Unemployed,$0 ,Poor,N/A
+1536,BARNES CARL EUGENE,35,,Baltimore,High School,Gig Worker,"$32,000 (Unstable)",Average,600
+1537,JOHNSON WILLIAM,18,,Baltimore,Bachelor's,Employed (Contract),"$100,000 ",Excellent,790
+1538,MCCARGO KEENAN JAMAH,28,,Baltimore,Master's,Retired,"$65,000 (Social Security)",Good,760
+1539,BRACEY DONTE,20,,Baltimore,Master's,Student (Full-time),$0 ,Excellent,None
+1540,FORD ERIC JEROME,19,,Baltimore,PhD,Employed,"$90,000 ",Good,800
+1541,WILLIAMS LORADO JR.,27,,Baltimore,Associate,Unemployed,$0 ,Poor,N/A
+1542,MITCHELL TAAVON,27,,Baltimore,High School,Employed (Part-time),"$25,000 (Hourly)",Excellent,740
+1543,BRYANT JOSEPH ANTOINE,29,,Baltimore,Bachelor's,Self-employed,"$70,000 (Seasonal)",Average,670
+1544,RICHARDSON TROY,30,,Baltimore,,Retired,"$40,000 (Pension)",Good,710
+1545,MCCARGO DAVON KEITH,20,,Baltimore,Associate,Gig Worker,"$42,000 (Unstable)",Average,640
+1546,DICKEY BYRON LAMAR,28,,Baltimore,High School,Employed,"$55,000 ",Excellent,780
+1547,MOORE FREDERICK,27,,Baltimore,Bachelor's,Student (Part-time),"$18,000 (Summer Job)",Good,None
+1548,KUTCHEY KAREN NORA,51,,Baltimore,Master's,Self-employed,"$140,000 ",Excellent,850
+1549,COX DARIUS,17,,Baltimore,,Unemployed,$0 ,Poor,420
+1550,BRADLEY RAMONA,40,,Baltimore,PhD,Employed,"$100,000 ",Average,750
+1551,COOPER ISHMAEL ANTONIO,15,,Baltimore,Associate,Unemployed,$0 ,Good,N/A
+1552,BAKER DWIGHT NATHANIEL,35,,Baltimore,High School,Gig Worker,"$30,000 (Unstable)",Poor,580
+1553,MCNAIR ANDRE LEE,28,,Baltimore,Bachelor's,Employed (Contract),"$85,000 ",Excellent,720
+1554,SIVELLS MATTHEW,26,,Baltimore,Master's,Retired,"$50,000 (Social Security)",Average,700
+1555,KARKI HIMANK,18,,Baltimore,PhD,Unemployed,$0 ,Poor,N/A
+1556,HAZEL LACY EDWARD,44,,Baltimore,Associate,Employed,"$40,000 ",Good,650
+1557,THOMAS DARNELL,23,,Baltimore,High School,Student (Full-time),$0 ,Excellent,None
+1558,TAYLOR KAHLIL,23,,Baltimore,Bachelor's,Self-employed (Business Closed),$0 ,Poor,450
+1559,BLACKWELL SEAN DONNIE,20,,Baltimore,,Unemployed,$0 ,Average,400
+1560,WATTS GARY,21,,Baltimore,PhD,Employed,"$110,000 (Commission)",Good,770
+1561,BORUM JASMINE AZARIA,17,,Baltimore,Associate,Unemployed,$0 ,Poor,N/A
+1562,BORUM PAULINE,60,,Baltimore,High School,Gig Worker,"$38,000 (Unstable)",Average,610
+1563,QUALLS DAVON,17,,Baltimore,Bachelor's,Employed (Contract),"$95,000 ",Excellent,790
+1564,NEWMAN BARRY OLSON,29,,Baltimore,Master's,Retired,"$55,000 (Social Security)",Good,730
+1565,WALTON KHONJI LATASHA,27,,Baltimore,PhD,Unemployed,$0 ,Excellent (?!),N/A
+1566,KABAH QASIM,29,,Baltimore,Associate,Unemployed,$0 ,Poor,N/A
+1567,CHRISTEN JOHN JAY,20,,Baltimore,Master's,Self-employed,"$120,000 ",Good,810
+1568,SMITH BRIAN PAUL,27,,Baltimore,,Employed (Part-time),"$15,000 (Hourly)",Excellent,690
+1569,JONES TYRONE,26,,Baltimore,PhD,Gig Worker,"$50,000 (Unstable)",Average,700
+1570,MYRICK CHANNING DONTE,26,,Baltimore,Associate,Self-employed,"$80,000 (Seasonal)",Poor,590
+1571,MORRIS DEION,23,,Baltimore,Master's,Student (Full-time),$0 ,Excellent,None
+1572,ASARE RICHARD KARIKARI,24,,Baltimore,PhD,Employed,"$90,000 ",Good,800
+1573,CONLEY GLENN,25,,Baltimore,Associate,Unemployed,$0 ,Poor,N/A
+1574,HARRIS DARRICK SHENELL,40,,Baltimore,High School,Employed (Part-time),"$25,000 (Hourly)",Excellent,740
+1575,RUTLEDGE ROBERT,40,,Baltimore,Bachelor's,Self-employed,"$70,000 (Seasonal)",Average,670
+1576,DIVEN WILLIAM DENNY,46,,Baltimore,,Retired,"$40,000 (Pension)",Good,710
+1577,RAY RICHARD,37,,Baltimore,Associate,Gig Worker,"$42,000 (Unstable)",Average,640
+1578,JONES VIRGINIA W,81,,Baltimore,High School,Employed,"$55,000 ",Excellent,780
+1579,RAY KEITH,24,,Baltimore,Bachelor's,Student (Part-time),"$18,000 (Summer Job)",Good,None
+1580,SMITH ALFRED,56,,Baltimore,Master's,Self-employed,"$140,000 ",Excellent,850
+1581,FORTUNE JASON,24,,Baltimore,,Unemployed,$0 ,Poor,420
+1582,BLANDING TYRONE ANTONY,30,,Baltimore,PhD,Employed,"$100,000 ",Average,750
+1583,KELLY DARWIN LAMAR JR.,20,,Baltimore,Associate,Unemployed,$0 ,Good,N/A
+1584,COLEMAN DAMON,35,,Baltimore,High School,Gig Worker,"$30,000 (Unstable)",Poor,580
+1585,ASKEW MONTAZ,19,,Baltimore,Bachelor's,Employed (Contract),"$85,000 ",Excellent,720
+1586,OSAFO KWAME SAKA,21,,Baltimore,Master's,Retired,"$50,000 (Social Security)",Average,700
+1587,WARE KEVIN BERNARD,40,,Baltimore,PhD,Unemployed,$0 ,Poor,N/A
+1588,HOPE DERON CORTEZ,16,,Baltimore,Associate,Employed,"$40,000 ",Good,650
+1589,BIGGS DIONE LAMONT,33,,Baltimore,High School,Student (Full-time),$0 ,Excellent,None
+1590,BRYANT ANDRE DONNELL,47,,Baltimore,Bachelor's,Self-employed (Business Closed),$0 ,Poor,450
+1591,MAZYCK HENRY ANDREW,39,,Baltimore,,Unemployed,$0 ,Average,400
+1592,MEBANE DARREN BLAIR,21,,Baltimore,PhD,Employed,"$110,000 (Commission)",Good,770
+1593,DAVIS DONTE DAVID,25,,Baltimore,Associate,Unemployed,$0 ,Poor,N/A
+1594,HOLLOWAY QUR'RON,19,,Baltimore,High School,Gig Worker,"$38,000 (Unstable)",Average,610
+1595,BURDEN CHRISTOPHER DWIGHT,23,,Baltimore,Bachelor's,Employed (Contract),"$95,000 ",Excellent,790
+1596,FLUDD VERONICA MARIE,26,,Baltimore,Master's,Retired,"$55,000 (Social Security)",Good,730
+1597,BECKFORD MARLON,31,,Baltimore,Master's,Student (Full-time),$0 ,Excellent,None
+1598,ROBERTSON-EL ALEXANDER,24,,Baltimore,PhD,Employed,"$150,000 (Commission)",Good,820
+1599,KING NAIM MUHAMMAD,31,,Baltimore,Associate,Unemployed,$0 ,Poor,N/A
+1600,FOOTMAN NATHANIEL CODY,18,,Baltimore,High School,Gig Worker,"$22,000 (Unstable)",Average,540
+1601,JONES LAWRENCE,17,,Baltimore,Bachelor's,Self-employed,"$80,000 ",Excellent,760
+1602,TYSON ROBERT,24,,Baltimore,,Unemployed,$0 ,Poor,380 (Typo)
+1603,SMITH NORMAN EARL,30,,Baltimore,Associate,Employed (Part-time),"$12,000 (Hourly)",Average,630
+1604,REGAN TERRENCE,16,,Baltimore,High School,Employed,"$60,000 ",Excellent,800
+1605,HUNT LEONARD,44,,Baltimore,Bachelor's,Student (Part-time),"$15,000 (Summer Job)",Good,None
+1606,SMITHSON CARLOS EUGENE,22,,Baltimore,Master's,Self-employed,"$100,000 (Seasonal)",Average,680
+1607,MORRIS JOHN HENRY,42,,Baltimore,PhD,Employed,"$150,000 (Outlier)",Excellent,880
+1608,DAVIS FREDERICK ROLAND,38,,Baltimore,High School (GED),Unemployed,$0 ,Poor,N/A
+1609,EARLL TRENT MICHEAL,25,,Baltimore,Bachelor's,Self-employed,"$80,000 (Unstable)",Average,630
+1610,BOWMAN KENDRICK D,17,,Baltimore,,Student (Internship),"$20,000 (Stipend)",Good,None
+1611,LEMON HERBERT JEROME,31,,Baltimore,Associate,Employed (Part-time),"$30,000 (Hourly)",Excellent,760
+1612,HARRIS BRYANNA ASHLEY,2,,Baltimore,Master's,Unemployed,$0 ,Poor,N/A
+1613,POWELL MARTAY,22,,Baltimore,PhD,Gig Worker,"$45,000 (Unstable)",Average,590
+1614,GRAY ROBERT VERNON,36,,Baltimore,High School,Employed,"$60,000 ",Excellent,810
+1615,CROWDER MICHAEL,33,,Baltimore,Bachelor's,Student (Full-time),$0 ,Good,None
+1616,REDDICKS-FLOWERS QUENTIN DAVID,31,,Baltimore,,Self-employed,"$120,000 (Seasonal)",Average,660
+1617,JONES TYWOND,13,,Baltimore,Associate,Unemployed,$0 ,Poor,N/A
+1618,HARRISON EUGENO PAUL,19,,Baltimore,PhD,Employed,"$130,000 (Commission)",Good,740
+1619,FOOTE LONNIE,58,,Baltimore,Master's,Student (Full-time),$0 ,Excellent,None
+1620,TUBMAN ARTAVIOUS D,24,,Baltimore,PhD,Employed,"$90,000 ",Good,800
+1621,LAWSON RICHARD,24,,Baltimore,Associate,Unemployed,$0 ,Poor,N/A
+1622,ROWLETT JAMAL,20,,Baltimore,High School,Employed (Part-time),"$25,000 (Hourly)",Excellent,740
+1623,GORHAM MONEA,24,,Baltimore,Bachelor's,Self-employed,"$70,000 (Seasonal)",Average,670
+1624,STOCKS JABARI,3,,Baltimore,,Retired,"$40,000 (Pension)",Good,710
+1625,WILLIAMS LEZLI MICHELLE,22,,Baltimore,Associate,Gig Worker,"$42,000 (Unstable)",Average,640
+1626,WEATHERS MICHAEL,19,,Baltimore,High School,Employed,"$55,000 ",Excellent,780
+1627,ALLEN JASON MILTON,25,,Baltimore,Bachelor's,Student (Part-time),"$18,000 (Summer Job)",Good,None
+1628,MACCOMBIE TOBY ANDREW,30,,Baltimore,Master's,Self-employed,"$140,000 ",Excellent,850
+1629,HARPER WILLIAM,36,,Baltimore,,Unemployed,$0 ,Poor,420
+1630,BACON KEVIN,46,,Baltimore,PhD,Employed,"$100,000 ",Average,750
+1631,DARGAN TODD A,25,,Baltimore,Associate,Unemployed,$0 ,Good,N/A
+1632,LINWOOD COLVIN,29,,Baltimore,High School,Gig Worker,"$30,000 (Unstable)",Poor,580
+1633,WATERS JEROME ANTHONY,32,,Baltimore,Bachelor's,Employed (Contract),"$85,000 ",Excellent,720
+1634,BROWN JARRELL MARRKEICE EUGEN,30,,Baltimore,Master's,Retired,"$50,000 (Social Security)",Average,700
+1635,HALLBACK ZECHARIAH LEE,18,,Baltimore,PhD,Unemployed,$0 ,Poor,N/A
+1636,JOYNER WILLIE CLAYTON,18,,Baltimore,Associate,Employed,"$40,000 ",Good,650
+1637,SMITH EDWARD,14,,Baltimore,High School,Student (Full-time),$0 ,Excellent,None
+1638,MCKEIVER ISAIAH,19,,Baltimore,Bachelor's,Self-employed (Business Closed),$0 ,Poor,450
+1639,MAZYCK COLLIN MATTHEW,24,,Baltimore,,Unemployed,$0 ,Average,400
+1640,KEARNEY EFFREM DEVON,20,,Baltimore,PhD,Employed,"$110,000 (Commission)",Good,770
+1641,HOLLEY LISA,38,,Baltimore,Associate,Unemployed,$0 ,Poor,N/A
+1642,LAWSON IRVIN BERNARD,32,,Baltimore,High School,Gig Worker,"$38,000 (Unstable)",Average,610
+1643,JOHNSON MICHAEL JR.,24,,Baltimore,Bachelor's,Employed (Contract),"$95,000 ",Excellent,790
+1644,MILLNER SIDNEY,25,,Baltimore,Master's,Retired,"$55,000 (Social Security)",Good,730
+1645,COUTHER VICTOR,19,,Baltimore,PhD,Employed,"$150,000 (Outlier)",Excellent,880
+1646,RICHARDSON CUMBERLAND C. JR.,62,,Baltimore,High School (GED),Unemployed,$0 ,Poor,N/A
+1647,BRYANT EMMANUEL MICHAEL,22,,Baltimore,Bachelor's,Self-employed,"$80,000 (Unstable)",Average,630
+1648,HAIR KEMIA RACHE,25,,Baltimore,,Student (Internship),"$20,000 (Stipend)",Good,None
+1649,PAYNE JEFF NYAN,22,,Baltimore,Associate,Employed (Part-time),"$30,000 (Hourly)",Excellent,760
+1650,NORRIS SHENERA,31,,Baltimore,Master's,Unemployed,$0 ,Poor,N/A
+1651,TYISHA BROWN MOZELLA,15,,Baltimore,PhD,Gig Worker,"$45,000 (Unstable)",Average,590
+1652,CHEW MURRIEL,20,,Baltimore,High School,Employed,"$60,000 ",Excellent,810
+1653,DAVIS HENRY,48,,Baltimore,Bachelor's,Student (Full-time),$0 ,Good,None
+1654,JONES ERIC OBYRON,23,,Baltimore,,Self-employed,"$120,000 (Seasonal)",Average,660
+1655,PRESSLEY JULIUS,23,,Baltimore,Associate,Unemployed,$0 ,Poor,N/A
+1656,BAYLOR EDWARD TYREE,32,,Baltimore,PhD,Employed,"$130,000 (Commission)",Good,740
